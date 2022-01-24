@@ -1,0 +1,2730 @@
+{
+	"SaveName": "BraveRats",
+	"GameMode": "BraveRats",
+	"Gravity": {
+		"$numberDouble": "0.5"
+	},
+	"PlayArea": {
+		"$numberDouble": "0.5"
+	},
+	"Date": "4/22/2020 8:44:25 PM",
+	"Table": "Table_None",
+	"Sky": "Sky_Museum",
+	"Note": "",
+	"Rules": "",
+	"XmlUI": "<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->",
+	"LuaScript": "--",
+	"LuaScriptState": "",
+	"MusicPlayer": {
+		"RepeatSong": true,
+		"PlaylistEntry": {
+			"$numberInt": "-1"
+		},
+		"CurrentAudioTitle": "Project Icarus Theme Music with SFX",
+		"CurrentAudioURL": "https://games.karljuhlke.com/tts/ica/music.mp3",
+		"AudioLibrary": []
+	},
+	"Grid": {
+		"Type": {
+			"$numberInt": "0"
+		},
+		"Lines": false,
+		"Color": {
+			"r": {
+				"$numberDouble": "0.0"
+			},
+			"g": {
+				"$numberDouble": "0.0"
+			},
+			"b": {
+				"$numberDouble": "0.0"
+			}
+		},
+		"Opacity": {
+			"$numberDouble": "0.6655173301696777"
+		},
+		"ThickLines": false,
+		"Snapping": false,
+		"Offset": false,
+		"BothSnapping": false,
+		"xSize": {
+			"$numberDouble": "4.0"
+		},
+		"ySize": {
+			"$numberDouble": "4.0"
+		},
+		"PosOffset": {
+			"x": {
+				"$numberDouble": "0.0"
+			},
+			"y": {
+				"$numberDouble": "1.0"
+			},
+			"z": {
+				"$numberDouble": "0.0"
+			}
+		}
+	},
+	"Lighting": {
+		"LightIntensity": {
+			"$numberDouble": "0.5400000214576721"
+		},
+		"LightColor": {
+			"r": {
+				"$numberDouble": "1.0"
+			},
+			"g": {
+				"$numberDouble": "0.980400025844574"
+			},
+			"b": {
+				"$numberDouble": "0.8902000188827515"
+			}
+		},
+		"AmbientIntensity": {
+			"$numberDouble": "1.2999999523162842"
+		},
+		"AmbientType": {
+			"$numberInt": "0"
+		},
+		"AmbientSkyColor": {
+			"r": {
+				"$numberDouble": "0.5"
+			},
+			"g": {
+				"$numberDouble": "0.5"
+			},
+			"b": {
+				"$numberDouble": "0.5"
+			}
+		},
+		"AmbientEquatorColor": {
+			"r": {
+				"$numberDouble": "0.5"
+			},
+			"g": {
+				"$numberDouble": "0.5"
+			},
+			"b": {
+				"$numberDouble": "0.5"
+			}
+		},
+		"AmbientGroundColor": {
+			"r": {
+				"$numberDouble": "0.5"
+			},
+			"g": {
+				"$numberDouble": "0.5"
+			},
+			"b": {
+				"$numberDouble": "0.5"
+			}
+		},
+		"ReflectionIntensity": {
+			"$numberDouble": "1.0"
+		},
+		"LutIndex": {
+			"$numberInt": "0"
+		},
+		"LutContribution": {
+			"$numberDouble": "1.0"
+		}
+	},
+	"Hands": {
+		"Enable": true,
+		"DisableUnused": false,
+		"Hiding": {
+			"$numberInt": "0"
+		},
+		"HandTransforms": [
+			{
+				"Color": "Blue",
+				"Transform": {
+					"posX": {
+						"$numberDouble": "-17.0"
+					},
+					"posY": {
+						"$numberDouble": "5.0"
+					},
+					"posZ": {
+						"$numberDouble": "-28.999984741210938"
+					},
+					"rotX": {
+						"$numberDouble": "-0.0"
+					},
+					"rotY": {
+						"$numberDouble": "0.0"
+					},
+					"rotZ": {
+						"$numberDouble": "0.0"
+					},
+					"scaleX": {
+						"$numberDouble": "24.722000122070312"
+					},
+					"scaleY": {
+						"$numberDouble": "5.835387229919434"
+					},
+					"scaleZ": {
+						"$numberDouble": "3.9108002185821533"
+					}
+				}
+			},
+			{
+				"Color": "Red",
+				"Transform": {
+					"posX": {
+						"$numberDouble": "17.0"
+					},
+					"posY": {
+						"$numberDouble": "5.0"
+					},
+					"posZ": {
+						"$numberDouble": "-28.999984741210938"
+					},
+					"rotX": {
+						"$numberDouble": "-0.0"
+					},
+					"rotY": {
+						"$numberDouble": "0.0"
+					},
+					"rotZ": {
+						"$numberDouble": "0.0"
+					},
+					"scaleX": {
+						"$numberDouble": "24.721126556396484"
+					},
+					"scaleY": {
+						"$numberDouble": "5.835387229919434"
+					},
+					"scaleZ": {
+						"$numberDouble": "3.9107275009155273"
+					}
+				}
+			}
+		]
+	},
+	"Turns": {
+		"Enable": false,
+		"Type": {
+			"$numberInt": "0"
+		},
+		"TurnOrder": [],
+		"Reverse": false,
+		"SkipEmpty": false,
+		"DisableInteractions": false,
+		"PassTurns": true,
+		"TurnColor": ""
+	},
+	"ObjectStates": [
+		{
+			"Name": "Custom_Assetbundle",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-18.0"
+				},
+				"posY": {
+					"$numberDouble": "-9.0"
+				},
+				"posZ": {
+					"$numberDouble": "-9.0"
+				},
+				"rotX": {
+					"$numberDouble": "6.536436103488086E-07"
+				},
+				"rotY": {
+					"$numberDouble": "-2.3917633370729163E-05"
+				},
+				"rotZ": {
+					"$numberDouble": "-3.848498636216391E-06"
+				},
+				"scaleX": {
+					"$numberDouble": "1.0"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomAssetbundle": {
+				"AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978795929/723C50F43FAB3DE3DC12CB8460536E8CB34B60A3/",
+				"AssetbundleSecondaryURL": "",
+				"MaterialIndex": {
+					"$numberInt": "2"
+				},
+				"TypeIndex": {
+					"$numberInt": "4"
+				},
+				"LoopingEffectIndex": {
+					"$numberInt": "0"
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "afc863"
+		},
+		{
+			"Name": "Custom_Assetbundle",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-18.0"
+				},
+				"posY": {
+					"$numberDouble": "-9.0"
+				},
+				"posZ": {
+					"$numberDouble": "9.0"
+				},
+				"rotX": {
+					"$numberDouble": "6.536436103488086E-07"
+				},
+				"rotY": {
+					"$numberDouble": "90.0"
+				},
+				"rotZ": {
+					"$numberDouble": "-3.848498636216391E-06"
+				},
+				"scaleX": {
+					"$numberDouble": "1.0"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomAssetbundle": {
+				"AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978795929/723C50F43FAB3DE3DC12CB8460536E8CB34B60A3/",
+				"AssetbundleSecondaryURL": "",
+				"MaterialIndex": {
+					"$numberInt": "2"
+				},
+				"TypeIndex": {
+					"$numberInt": "4"
+				},
+				"LoopingEffectIndex": {
+					"$numberInt": "0"
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "c8edca"
+		},
+		{
+			"Name": "Custom_Assetbundle",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "18.0"
+				},
+				"posY": {
+					"$numberDouble": "-9.0"
+				},
+				"posZ": {
+					"$numberDouble": "9.0"
+				},
+				"rotX": {
+					"$numberDouble": "6.536436103488086E-07"
+				},
+				"rotY": {
+					"$numberDouble": "180.0"
+				},
+				"rotZ": {
+					"$numberDouble": "-3.848498636216391E-06"
+				},
+				"scaleX": {
+					"$numberDouble": "1.0"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomAssetbundle": {
+				"AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978795929/723C50F43FAB3DE3DC12CB8460536E8CB34B60A3/",
+				"AssetbundleSecondaryURL": "",
+				"MaterialIndex": {
+					"$numberInt": "2"
+				},
+				"TypeIndex": {
+					"$numberInt": "4"
+				},
+				"LoopingEffectIndex": {
+					"$numberInt": "0"
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "393bf7"
+		},
+		{
+			"Name": "Custom_Assetbundle",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "18.0"
+				},
+				"posY": {
+					"$numberDouble": "-9.0"
+				},
+				"posZ": {
+					"$numberDouble": "-9.0"
+				},
+				"rotX": {
+					"$numberDouble": "6.536436103488086E-07"
+				},
+				"rotY": {
+					"$numberDouble": "270.0"
+				},
+				"rotZ": {
+					"$numberDouble": "-3.848498636216391E-06"
+				},
+				"scaleX": {
+					"$numberDouble": "1.0"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomAssetbundle": {
+				"AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978795929/723C50F43FAB3DE3DC12CB8460536E8CB34B60A3/",
+				"AssetbundleSecondaryURL": "",
+				"MaterialIndex": {
+					"$numberInt": "2"
+				},
+				"TypeIndex": {
+					"$numberInt": "4"
+				},
+				"LoopingEffectIndex": {
+					"$numberInt": "0"
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "12c65e"
+		},
+		{
+			"Name": "Chinese_Checkers_Piece",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.160003662109375"
+				},
+				"posY": {
+					"$numberDouble": "-0.2599983215332031"
+				},
+				"posZ": {
+					"$numberDouble": "-31.1200008392334"
+				},
+				"rotX": {
+					"$numberDouble": "0.0019007646478712559"
+				},
+				"rotY": {
+					"$numberDouble": "180.0"
+				},
+				"rotZ": {
+					"$numberDouble": "0.00037989154225215316"
+				},
+				"scaleX": {
+					"$numberDouble": "1.6499994993209839"
+				},
+				"scaleY": {
+					"$numberDouble": "1.6499994993209839"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.6499994993209839"
+				}
+			},
+			"Nickname": "Flex Table Control",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": false,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"MaterialIndex": {
+				"$numberInt": "1"
+			},
+			"XmlUI": "",
+			"LuaScript": "tableHeightOffset = -9\n\nfunction onSave()\n    saved_data = JSON.encode({tid=tableImageData, cd=checkData})\n    --saved_data = \"\"\n    return saved_data\nend\n\nfunction onload(saved_data)\n    --Loads the tracking for if the game has started yet\n    if saved_data ~= \"\" then\n         local loaded_data = JSON.decode(saved_data)\n         tableImageData = loaded_data.tid\n         checkData = loaded_data.cd\n    else\n        tableImageData = {}\n        checkData = {move=false, scale=false}\n    end\n\n    --Disables interactable status of objects with GUID in list\n    for _, guid in ipairs(ref_noninteractable) do\n        local obj = getObjectFromGUID(guid)\n        if obj then obj.interactable = false end\n    end\n\n    --Establish references to table parts\n    obj_leg1 = getObjectFromGUID(\"afc863\")\n    obj_leg2 = getObjectFromGUID(\"c8edca\")\n    obj_leg3 = getObjectFromGUID(\"393bf7\")\n    obj_leg4 = getObjectFromGUID(\"12c65e\")\n    obj_surface = getObjectFromGUID(\"4ee1f2\")\n    obj_side_top = getObjectFromGUID(\"35b95f\")\n    obj_side_bot = getObjectFromGUID(\"f938a2\")\n    obj_side_lef = getObjectFromGUID(\"9f95fd\")\n    obj_side_rig = getObjectFromGUID(\"5af8f2\")\n\n    controlActive = false\n    createOpenCloseButton()\nend\n\n\n\n--Activation/deactivation of control panel\n\n\n\n--Activated by clicking on\nfunction click_toggleControl(_, color)\n    if permissionCheck(color) then\n        if not controlActive then\n            --Activate control panel\n            controlActive = true\n            self.clearButtons()\n            createOpenCloseButton()\n            createSurfaceInput()\n            createSurfaceButtons()\n            createScaleInput()\n            createScaleButtons()\n        else\n            --Deactivate control panel\n            controlActive = false\n            self.clearButtons()\n            self.clearInputs()\n            createOpenCloseButton()\n\n        end\n    end\nend\n\n\n\n\n--Table surface control\n\n\n\n--Changes table surface\nfunction click_applySurface(_, color)\n    if permissionCheck(color) then\n        updateSurface()\n        broadcastToAll(\"New Table Image Applied\", {0.2,0.9,0.2})\n    end\nend\n\n--Saves table surface\nfunction click_saveSurface(_, color)\n    if permissionCheck(color) then\n        local nickname = self.getInputs()[1].value\n        local url = self.getInputs()[2].value\n        if nickname == \"\" then\n            --No nickname\n            broadcastToAll(\"Please supply a nickname for this save.\", {0.9,0.2,0.2})\n        else\n            --Nickname exists\n\n            if findInImageDataIndex(url, nickname) == nil then\n                --Save doesn't exist already\n                table.insert(tableImageData, {url=url, name=nickname})\n                broadcastToAll(\"Image URL saved to memory.\", {0.2,0.9,0.2})\n                --Refresh buttons\n                self.clearButtons()\n                createOpenCloseButton()\n                createSurfaceButtons()\n                createScaleButtons()\n            else\n                --Save exists already\n                broadcastToAll(\"Memory already contains a save with this Name or URL. Delete it first.\", {0.9,0.2,0.2})\n            end\n        end\n    end\nend\n\n--Loads table surface\nfunction click_loadMemory(_, color, index)\n    if permissionCheck(color) then\n        self.editInput({index=0, value=tableImageData[index].name})\n        self.editInput({index=1, value=tableImageData[index].url})\n        updateSurface()\n        broadcastToAll(\"Table Image Loaded\", {0.2,0.9,0.2})\n    end\nend\n\n--Deletes table surface\nfunction click_deleteMemory(_, color, index)\n    if permissionCheck(color) then\n        table.remove(tableImageData, index)\n        self.clearButtons()\n        createOpenCloseButton()\n        createSurfaceButtons()\n        createScaleButtons()\n        broadcastToAll(\"Element Removed from Memory\", {0.2,0.9,0.2})\n    end\nend\n\n--Updates surface from the values in the input field\nfunction updateSurface()\n    local customInfo = obj_surface.getCustomObject()\n    customInfo.diffuse = self.getInputs()[2].value\n    obj_surface.setCustomObject(customInfo)\n    obj_surface = obj_surface.reload()\nend\n\n\n\n--Table Scale control\n\n\n\n--Applies Scale to table pieces\nfunction click_applyScale(_, color)\n    if permissionCheck(color) then\n        local newWidth = tonumber(self.getInputs()[3].value)\n        local newDepth = tonumber(self.getInputs()[4].value)\n        if type(newWidth) ~= \"number\" then\n            broadcastToAll(\"Invalid Width\", {0.9,0.2,0.2})\n            return\n        elseif type(newDepth) ~= \"number\" then\n            broadcastToAll(\"Invalid Depth\", {0.9,0.2,0.2})\n            return\n        elseif newWidth<0.1 or newDepth<0.1 then\n            broadcastToAll(\"Scale cannot go below 0.1\", {0.9,0.2,0.2})\n            return\n        elseif newWidth>12 or newDepth>12 then\n            broadcastToAll(\"Scale should not go over 12 (world size limitation)\", {0.9,0.2,0.2})\n            return\n        else\n            changeTableScale(math.abs(newWidth), math.abs(newDepth))\n            broadcastToAll(\"Scale applied.\", {0.2,0.9,0.2})\n        end\n    end\nend\n\n--Checks/unchecks move box for hands\nfunction click_checkMove(_, color)\n    if permissionCheck(color) then\n        local find_func = function(o) return o.click_function==\"click_checkMove\" end\n        if checkData.move == true then\n            checkData.move = false\n            local buttonEntry = findButton(self, find_func)\n            self.editButton({index=buttonEntry.index, label=\"\"})\n        else\n            checkData.move = true\n            local buttonEntry = findButton(self, find_func)\n            self.editButton({index=buttonEntry.index, label=string.char(10008)})\n        end\n    end\nend\n\n--Checks/unchecks scale box for hands\n--This button was disabled for technical reasons\n--[[\nfunction click_checkScale(_, color)\n    if permissionCheck(color) then\n        local find_func = function(o) return o.click_function==\"click_checkScale\" end\n        if checkData.scale == true then\n            checkData.scale = false\n            local buttonEntry = findButton(self, find_func)\n            self.editButton({index=buttonEntry.index, label=\"\"})\n        else\n            checkData.scale = true\n            local buttonEntry = findButton(self, find_func)\n            self.editButton({index=buttonEntry.index, label=string.char(10008)})\n        end\n    end\nend\n]]\n\n--Alters scale of elements and moves them\nfunction changeTableScale(width, depth)\n    --Scaling factors used to translate scale to position offset\n    local width2pos = (width-1) * 18\n    local depth2pos = (depth-1) * 18\n\n    --Hand zone movement\n    if checkData.move == true then\n        for _, pc in ipairs(ref_playerColor) do\n            if Player[pc].getHandCount() > 0 then\n                moveHandZone(Player[pc], width2pos, depth2pos)\n            end\n        end\n    end\n    --Hand zone scaling\n    --The button to enable this was disabled for technical reasons\n    if checkData.scale == true then\n        for _, pc in ipairs(ref_playerColor) do\n            if Player[pc].getHandCount() > 0 then\n                scaleHandZone(Player[pc], width, depth)\n            end\n        end\n    end\n\n    --Resizing table elements\n    obj_side_top.setScale({width, 1, 1})\n    obj_side_bot.setScale({width, 1, 1})\n    obj_side_lef.setScale({depth, 1, 1})\n    obj_side_rig.setScale({depth, 1, 1})\n    obj_surface.setScale({width, 1, depth})\n\n    --Moving table elements to accomodate new scale\n    obj_side_lef.setPosition({-width2pos,tableHeightOffset,0})\n    obj_side_rig.setPosition({ width2pos,tableHeightOffset,0})\n    obj_side_top.setPosition({0,tableHeightOffset, depth2pos})\n    obj_side_bot.setPosition({0,tableHeightOffset,-depth2pos})\n    obj_leg1.setPosition({-width2pos,tableHeightOffset,-depth2pos})\n    obj_leg2.setPosition({-width2pos,tableHeightOffset, depth2pos})\n    obj_leg3.setPosition({ width2pos,tableHeightOffset, depth2pos})\n    obj_leg4.setPosition({ width2pos,tableHeightOffset,-depth2pos})\n    self.setPosition(obj_leg4.positionToWorld({-22.12, 8.74,-19.16}))\n    --Only enabled when changing tableHeightOffset\n    --obj_surface.setPosition({0,tableHeightOffset,0})\nend\n\n--Move hand zone, p=player reference, facts are scaling factors\nfunction moveHandZone(p, width2pos, depth2pos)\n    local widthX = obj_side_rig.getPosition().x\n    local depthZ = obj_side_top.getPosition().z\n    for i=1, p.getHandCount() do\n        local handT = p.getHandTransform()\n        local pos = handT.position\n        local y = handT.rotation.y\n\n        if y<45 or y>320 or y>135 and y<225 then\n            if pos.z > 0 then\n                pos.z = pos.z + depth2pos - depthZ\n            else\n                pos.z = pos.z - depth2pos + depthZ\n            end\n        else\n            if pos.x > 0 then\n                pos.x = pos.x + width2pos - widthX\n            else\n                pos.x = pos.x - width2pos + widthX\n            end\n        end\n\n        --Only enabled when changing tableHeightOffset\n        --pos.y = tableHeightOffset + 14\n\n        handT.position = pos\n        p.setHandTransform(handT, i)\n    end\nend\n\n\n---Scales hand zones, p=player reference, facts are scaling factors\nfunction scaleHandZone(p, width, depth)\n    local widthFact = width / obj_side_top.getScale().x\n    local depthFact = depth / obj_side_lef.getScale().x\n    for i=1, p.getHandCount() do\n        local handT = p.getHandTransform()\n        local scale = handT.scale\n        local y = handT.rotation.y\n        if y<45 or y>320 or y>135 and y<225 then\n            scale.x = scale.x * widthFact\n        else\n            scale.x = scale.x * depthFact\n        end\n        handT.scale = scale\n        p.setHandTransform(handT, i)\n    end\nend\n\n\n\n--Information gathering\n\n\n\n--Checks if a color is promoted or host\nfunction permissionCheck(color)\n    if Player[color].host==true or Player[color].promoted==true then\n        return true\n    else\n        return false\n    end\nend\n\n--Locates a string saved within memory file\nfunction findInImageDataIndex(...)\n    for _, str in ipairs({...}) do\n        for i, v in ipairs(tableImageData) do\n            if v.url == str or v.name == str then\n                return i\n            end\n        end\n    end\n    return nil\nend\n\n--Round number (num) to the Nth decimal (dec)\nfunction round(num, dec)\n  local mult = 10^(dec or 0)\n  return math.floor(num * mult + 0.5) / mult\nend\n\n--Locates a button with a helper function\nfunction findButton(obj, func)\n    if func==nil then error(\"No func supplied to findButton\") end\n    for _, v in ipairs(obj.getButtons()) do\n        if func(v) then\n            return v\n        end\n    end\n    return nil\nend\n\n\n\n--Creation of buttons/inputs\n\n\n\nfunction createOpenCloseButton()\n    local tooltip = \"Open Table Control Panel\"\n    if controlActive then\n        tooltip = \"Close Table Control Panel\"\n    end\n    self.createButton({\n        click_function=\"click_toggleControl\", function_owner=self,\n        position={0,0,0}, rotation={-45,0,0}, height=400, width=400,\n        color={1,1,1,0}, tooltip=tooltip\n    })\nend\n\nfunction createSurfaceInput()\n    local currentURL = obj_surface.getCustomObject().diffuse\n    local nickname = \"\"\n    if findInImageDataIndex(currentURL) ~= nil then\n        nickname = tableImageData[findInImageDataIndex(currentURL)].name\n    end\n    self.createInput({\n        label=\"Nickname\", input_function=\"none\", function_owner=self,\n        alignment=3, position={0,0,2}, height=224, width=4000,\n        font_size=200, tooltip=\"Enter nickname for table image (only used for save)\",\n        value=nickname\n    })\n    self.createInput({\n        label=\"URL\", input_function=\"none\", function_owner=self,\n        alignment=3, position={0,0,3}, height=224, width=4000,\n        font_size=200, tooltip=\"Enter URL for tabletop image\",\n        value=currentURL\n    })\nend\n\nfunction createSurfaceButtons()\n    --Label\n    self.createButton({\n        label=\"Tabletop Surface Image\", click_function=\"none\",\n        position={0,0,1}, height=0, width=0, font_size=300, font_color={1,1,1}\n    })\n    --Functional\n    self.createButton({\n        label=\"Apply Image\\nTo Table\", click_function=\"click_applySurface\",\n        function_owner=self, tooltip=\"Apply URL as table image\",\n        position={2,0,4}, height=440, width=1400, font_size=200,\n    })\n    self.createButton({\n        label=\"Save Image\\nTo Memory\", click_function=\"click_saveSurface\",\n        function_owner=self, tooltip=\"Record URL into memory (requires nickname)\",\n        position={-2,0,4}, height=440, width=1400, font_size=200,\n    })\n    --Label\n    self.createButton({\n        label=\"Load From Memory\", click_function=\"none\",\n        position={0,0,5.5}, height=0, width=0, font_size=300, font_color={1,1,1}\n    })\n    --Saves, created dynamically from memory file\n    for i, memoryEntry in ipairs(tableImageData) do\n        --Load\n        local funcName = i..\"loadMemory\"\n        local func = function(x,y) click_loadMemory(x,y,i) end\n        self.setVar(funcName, func)\n        self.createButton({\n            label=memoryEntry.name, click_function=funcName,\n            function_owner=self, tooltip=memoryEntry.url, font_size=200,\n            position={-0.6,0,6.5+0.5*(i-1)}, height=240, width=3300,\n        })\n        --Delete\n        local funcName = i..\"deleteMemory\"\n        local func = function(x,y) click_deleteMemory(x,y,i) end\n        self.setVar(funcName, func)\n        self.createButton({\n            label=\"DELETE\", click_function=funcName,\n            function_owner=self, tooltip=\"\",\n            position={3.6,0,6.5+0.5*(i-1)}, height=240, width=600,\n            font_size=160, font_color={1,0,0}, color={0.8,0.8,0.8}\n        })\n    end\nend\n\nfunction createScaleInput()\n    self.createInput({\n        label=string.char(8644), input_function=\"none\", function_owner=self,\n        alignment=3, position={-8.5,0,2}, height=224, width=400,\n        font_size=200, tooltip=\"Table Width\",\n        value=round(obj_side_top.getScale().x, 1)\n    })\n    self.createInput({\n        label=string.char(8645), input_function=\"none\", function_owner=self,\n        alignment=3, position={-7.5,0,2}, height=224, width=400,\n        font_size=200, tooltip=\"Table Depth\",\n        value=round(obj_side_lef.getScale().x, 1)\n    })\nend\n\nfunction createScaleButtons()\n    --Labels\n    self.createButton({\n        label=\"Table Scale\", click_function=\"none\",\n        position={-8,0,1}, height=0, width=0, font_size=300, font_color={1,1,1}\n    })\n    self.createButton({\n        label=string.char(8644)..\"            \"..string.char(8645),\n        click_function=\"none\",\n        position={-8,0,2}, height=0, width=0, font_size=300, font_color={1,1,1}\n    })\n    self.createButton({\n        label=\"Move Hands:\", click_function=\"none\",\n        position={-8.3,0,3}, height=0, width=0, font_size=200, font_color={1,1,1}\n    })\n    --Disabled due to me removing the feature for technical reasons\n    --[[\n    self.createButton({\n        label=\"Scale Hands:\", click_function=\"none\",\n        position={-8.3,0,4}, height=0, width=0, font_size=200, font_color={1,1,1}\n    })\n    ]]\n    --Checkboxes\n    local label = \"\"\n    if checkData.move == true then label = string.char(10008) end\n    self.createButton({\n        label=label, click_function=\"click_checkMove\",\n        function_owner=self, tooltip=\"Check to move hands when table is rescaled\",\n        position={-6.8,0,3}, height=224, width=224, font_size=200,\n    })\n    --[[\n    local label = \"\"\n    if checkData.scale == true then label = string.char(10008) end\n    self.createButton({\n        label=label, click_function=\"click_checkScale\",\n        function_owner=self, tooltip=\"Check to scale the width of hands when table is rescaled\",\n        position={-6.8,0,4}, height=224, width=224, font_size=200,\n    })\n    ]]\n    --Apply button\n    self.createButton({\n        label=\"Apply Scale\", click_function=\"click_applyScale\",\n        function_owner=self, tooltip=\"Apply width/depth to table\",\n        position={-8,0,4}, height=440, width=1400, font_size=200,\n    })\nend\n\n\n\n\n\n--Data tables\n\n\n\n\nref_noninteractable = {\n    \"afc863\",\"c8edca\",\"393bf7\",\"12c65e\",\"f938a2\",\"9f95fd\",\"35b95f\",\n    \"5af8f2\",\"4ee1f2\",\"bd69bd\"\n}\n\nref_playerColor = {\n    \"White\", \"Brown\", \"Red\", \"Orange\", \"Yellow\",\n    \"Green\", \"Teal\", \"Blue\", \"Purple\", \"Pink\", \"Black\"\n}\n\n--Dummy function, absorbs unwanted triggers\nfunction none() end\n",
+			"LuaScriptState": "{\"cd\":{\"move\":true,\"scale\":false},\"tid\":[{\"name\":\"Felt - Green\",\"url\":\"https://i.imgur.com/eHXDjyy.jpg\"},{\"name\":\"Felt - Red\",\"url\":\"https://i.imgur.com/DbPelDi.jpg\"},{\"name\":\"Felt - Grey\",\"url\":\"https://i.imgur.com/N0O6aqj.jpg\"}]}",
+			"GUID": "bd69bd"
+		},
+		{
+			"Name": "Custom_Assetbundle",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "0.0"
+				},
+				"posY": {
+					"$numberDouble": "-9.0"
+				},
+				"posZ": {
+					"$numberDouble": "-9.0"
+				},
+				"rotX": {
+					"$numberDouble": "-1.0177775099486433E-13"
+				},
+				"rotY": {
+					"$numberDouble": "0.0"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "2.0"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomAssetbundle": {
+				"AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978796471/14ED0DBD593370733A0309B0950004F33EB9FACA/",
+				"AssetbundleSecondaryURL": "",
+				"MaterialIndex": {
+					"$numberInt": "1"
+				},
+				"TypeIndex": {
+					"$numberInt": "4"
+				},
+				"LoopingEffectIndex": {
+					"$numberInt": "0"
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "f938a2"
+		},
+		{
+			"Name": "Custom_Assetbundle",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-18.0"
+				},
+				"posY": {
+					"$numberDouble": "-9.0"
+				},
+				"posZ": {
+					"$numberDouble": "0.0"
+				},
+				"rotX": {
+					"$numberDouble": "-0.0"
+				},
+				"rotY": {
+					"$numberDouble": "90.0"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "1.5"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomAssetbundle": {
+				"AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978796471/14ED0DBD593370733A0309B0950004F33EB9FACA/",
+				"AssetbundleSecondaryURL": "",
+				"MaterialIndex": {
+					"$numberInt": "1"
+				},
+				"TypeIndex": {
+					"$numberInt": "4"
+				},
+				"LoopingEffectIndex": {
+					"$numberInt": "0"
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "9f95fd"
+		},
+		{
+			"Name": "Custom_Assetbundle",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "0.0"
+				},
+				"posY": {
+					"$numberDouble": "-9.0"
+				},
+				"posZ": {
+					"$numberDouble": "9.0"
+				},
+				"rotX": {
+					"$numberDouble": "-1.0177775099486433E-13"
+				},
+				"rotY": {
+					"$numberDouble": "180.0"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "2.0"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomAssetbundle": {
+				"AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978796471/14ED0DBD593370733A0309B0950004F33EB9FACA/",
+				"AssetbundleSecondaryURL": "",
+				"MaterialIndex": {
+					"$numberInt": "1"
+				},
+				"TypeIndex": {
+					"$numberInt": "4"
+				},
+				"LoopingEffectIndex": {
+					"$numberInt": "0"
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "35b95f"
+		},
+		{
+			"Name": "Custom_Assetbundle",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "18.0"
+				},
+				"posY": {
+					"$numberDouble": "-9.0"
+				},
+				"posZ": {
+					"$numberDouble": "0.0"
+				},
+				"rotX": {
+					"$numberDouble": "-0.0"
+				},
+				"rotY": {
+					"$numberDouble": "270.0"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "1.5"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomAssetbundle": {
+				"AssetbundleURL": "http://cloud-3.steamusercontent.com/ugc/879750610978796471/14ED0DBD593370733A0309B0950004F33EB9FACA/",
+				"AssetbundleSecondaryURL": "",
+				"MaterialIndex": {
+					"$numberInt": "1"
+				},
+				"TypeIndex": {
+					"$numberInt": "4"
+				},
+				"LoopingEffectIndex": {
+					"$numberInt": "0"
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "5af8f2"
+		},
+		{
+			"Name": "Custom_PDF",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "26.139728546142578"
+				},
+				"posY": {
+					"$numberDouble": "1.4515715837478638"
+				},
+				"posZ": {
+					"$numberDouble": "20.0001163482666"
+				},
+				"rotX": {
+					"$numberDouble": "0.016871703788638115"
+				},
+				"rotY": {
+					"$numberDouble": "179.99960327148438"
+				},
+				"rotZ": {
+					"$numberDouble": "0.07987655699253082"
+				},
+				"scaleX": {
+					"$numberDouble": "3.315659761428833"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "3.315659761428833"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.2499997913837433"
+				},
+				"g": {
+					"$numberDouble": "0.2499997913837433"
+				},
+				"b": {
+					"$numberDouble": "0.2499997913837433"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomPDF": {
+				"PDFUrl": "http://cloud-3.steamusercontent.com/ugc/1005934674253733611/B6EFA4EA243AADD2E96F27779EC6993AF0A20CDF/",
+				"PDFPassword": "",
+				"PDFPage": {
+					"$numberInt": "0"
+				},
+				"PDFPageOffset": {
+					"$numberInt": "0"
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "f8e64f"
+		},
+		{
+			"Name": "Custom_Tile",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "0.0"
+				},
+				"posY": {
+					"$numberDouble": "1.4880578517913818"
+				},
+				"posZ": {
+					"$numberDouble": "19.998607635498047"
+				},
+				"rotX": {
+					"$numberDouble": "-0.0"
+				},
+				"rotY": {
+					"$numberDouble": "179.99996948242188"
+				},
+				"rotZ": {
+					"$numberDouble": "0.07987628132104874"
+				},
+				"scaleX": {
+					"$numberDouble": "6.567174434661865"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "6.567174434661865"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.4932559132575989"
+				},
+				"g": {
+					"$numberDouble": "0.526132345199585"
+				},
+				"b": {
+					"$numberDouble": "0.3162291944026947"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomImage": {
+				"ImageURL": "http://cloud-3.steamusercontent.com/ugc/1005934674253736319/55E89C566DA10A6404EC6DE1C996262BBAB4F785/",
+				"ImageSecondaryURL": "",
+				"ImageScalar": {
+					"$numberDouble": "1.0"
+				},
+				"WidthScale": {
+					"$numberDouble": "0.0"
+				},
+				"CustomTile": {
+					"Type": {
+						"$numberInt": "0"
+					},
+					"Thickness": {
+						"$numberDouble": "0.1950002908706665"
+					},
+					"Stackable": false,
+					"Stretch": true
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "3874cf"
+		},
+		{
+			"Name": "Custom_Model",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "0.0"
+				},
+				"posY": {
+					"$numberDouble": "-9.0"
+				},
+				"posZ": {
+					"$numberDouble": "0.0"
+				},
+				"rotX": {
+					"$numberDouble": "359.9831237792969"
+				},
+				"rotY": {
+					"$numberDouble": "-0.0018945364281535149"
+				},
+				"rotZ": {
+					"$numberDouble": "359.9201354980469"
+				},
+				"scaleX": {
+					"$numberDouble": "2.0"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.5"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": true,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomMesh": {
+				"MeshURL": "http://cloud-3.steamusercontent.com/ugc/879750610978796176/4A5A65543B98BCFBF57E910D06EC984208223D38/",
+				"DiffuseURL": "https://i.imgur.com/eHXDjyy.jpg",
+				"NormalURL": "",
+				"ColliderURL": "",
+				"Convex": true,
+				"MaterialIndex": {
+					"$numberInt": "1"
+				},
+				"TypeIndex": {
+					"$numberInt": "4"
+				},
+				"CustomShader": {
+					"SpecularColor": {
+						"r": {
+							"$numberDouble": "1.0"
+						},
+						"g": {
+							"$numberDouble": "1.0"
+						},
+						"b": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"SpecularIntensity": {
+						"$numberDouble": "0.0"
+					},
+					"SpecularSharpness": {
+						"$numberDouble": "2.0"
+					},
+					"FresnelStrength": {
+						"$numberDouble": "0.0"
+					}
+				},
+				"CastShadows": true
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "4ee1f2"
+		},
+		{
+			"Name": "DeckCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-12.599997520446777"
+				},
+				"posY": {
+					"$numberDouble": "1.55796217918396"
+				},
+				"posZ": {
+					"$numberDouble": "-23.500009536743164"
+				},
+				"rotX": {
+					"$numberDouble": "0.016871102154254913"
+				},
+				"rotY": {
+					"$numberDouble": "180.00021362304688"
+				},
+				"rotZ": {
+					"$numberDouble": "180.0798797607422"
+				},
+				"scaleX": {
+					"$numberDouble": "1.4149763584136963"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.4149763584136963"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": false,
+			"SidewaysCard": false,
+			"DeckIDs": [
+				{
+					"$numberInt": "100"
+				},
+				{
+					"$numberInt": "101"
+				},
+				{
+					"$numberInt": "102"
+				},
+				{
+					"$numberInt": "103"
+				},
+				{
+					"$numberInt": "104"
+				},
+				{
+					"$numberInt": "105"
+				},
+				{
+					"$numberInt": "106"
+				},
+				{
+					"$numberInt": "107"
+				}
+			],
+			"CustomDeck": {
+				"1": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1007059430920822253/FDE480F9032EA5017ECE9DA0D71D37BA8CE5FF58/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1007059430920822638/8675C0F38C13A990428B3E7F1C99145B5DF44242/",
+					"NumWidth": {
+						"$numberInt": "4"
+					},
+					"NumHeight": {
+						"$numberInt": "4"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"ContainedObjects": [
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "100"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "101"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "102"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "103"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "104"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "105"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "106"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "107"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				}
+			],
+			"GUID": "56e16f"
+		},
+		{
+			"Name": "DeckCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "12.59506893157959"
+				},
+				"posY": {
+					"$numberDouble": "1.522837519645691"
+				},
+				"posZ": {
+					"$numberDouble": "-23.5000057220459"
+				},
+				"rotX": {
+					"$numberDouble": "0.016871847212314606"
+				},
+				"rotY": {
+					"$numberDouble": "180.00013732910156"
+				},
+				"rotZ": {
+					"$numberDouble": "180.0798797607422"
+				},
+				"scaleX": {
+					"$numberDouble": "1.4149763584136963"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.4149763584136963"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": false,
+			"SidewaysCard": false,
+			"DeckIDs": [
+				{
+					"$numberInt": "108"
+				},
+				{
+					"$numberInt": "109"
+				},
+				{
+					"$numberInt": "110"
+				},
+				{
+					"$numberInt": "111"
+				},
+				{
+					"$numberInt": "112"
+				},
+				{
+					"$numberInt": "113"
+				},
+				{
+					"$numberInt": "114"
+				},
+				{
+					"$numberInt": "115"
+				}
+			],
+			"CustomDeck": {
+				"1": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1007059430920822253/FDE480F9032EA5017ECE9DA0D71D37BA8CE5FF58/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1007059430920822638/8675C0F38C13A990428B3E7F1C99145B5DF44242/",
+					"NumWidth": {
+						"$numberInt": "4"
+					},
+					"NumHeight": {
+						"$numberInt": "4"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"ContainedObjects": [
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "108"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "109"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "110"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "111"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "112"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "113"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "114"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-5.939546099398285E-08"
+						},
+						"posY": {
+							"$numberDouble": "1.0099353790283203"
+						},
+						"posZ": {
+							"$numberDouble": "-4.106163942196872E-08"
+						},
+						"rotX": {
+							"$numberDouble": "8.06686730356887E-05"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "179.99990844726562"
+						},
+						"scaleX": {
+							"$numberDouble": "1.4149763584136963"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.4149763584136963"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "115"
+					},
+					"SidewaysCard": false,
+					"XmlUI": "",
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"ContainedObjects": [],
+					"GUID": "4e2ecb"
+				}
+			],
+			"GUID": "b71016"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-17.0"
+				},
+				"posY": {
+					"$numberDouble": "1.5735498666763306"
+				},
+				"posZ": {
+					"$numberDouble": "-23.399999618530273"
+				},
+				"rotX": {
+					"$numberDouble": "0.016870519146323204"
+				},
+				"rotY": {
+					"$numberDouble": "179.99998474121094"
+				},
+				"rotZ": {
+					"$numberDouble": "0.07987721264362335"
+				},
+				"scaleX": {
+					"$numberDouble": "1.995347023010254"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.995347023010254"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1700"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"17": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1005934674253763574/B31D69EE660A51DBF2E4178477264A408EAF8CAB/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1005934674253763574/B31D69EE660A51DBF2E4178477264A408EAF8CAB/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "3281b5"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "17.0"
+				},
+				"posY": {
+					"$numberDouble": "1.5222853422164917"
+				},
+				"posZ": {
+					"$numberDouble": "-23.399999618530273"
+				},
+				"rotX": {
+					"$numberDouble": "0.01687089540064335"
+				},
+				"rotY": {
+					"$numberDouble": "179.9999237060547"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0798773244023323"
+				},
+				"scaleX": {
+					"$numberDouble": "1.995347023010254"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.995347023010254"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1700"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"17": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1005934674253763574/B31D69EE660A51DBF2E4178477264A408EAF8CAB/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1005934674253763574/B31D69EE660A51DBF2E4178477264A408EAF8CAB/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false
+				}
+			},
+			"XmlUI": "",
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"GUID": "3b8998"
+		}
+	],
+	"DecalPallet": [],
+	"TabStates": {
+		"0": {
+			"title": "Rules",
+			"body": "",
+			"color": "Grey",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.5"
+				},
+				"g": {
+					"$numberDouble": "0.5"
+				},
+				"b": {
+					"$numberDouble": "0.5"
+				}
+			},
+			"id": {
+				"$numberInt": "0"
+			}
+		},
+		"1": {
+			"title": "White",
+			"body": "",
+			"color": "White",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"id": {
+				"$numberInt": "1"
+			}
+		},
+		"2": {
+			"title": "Brown",
+			"body": "",
+			"color": "Brown",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.4429999887943268"
+				},
+				"g": {
+					"$numberDouble": "0.23100000619888306"
+				},
+				"b": {
+					"$numberDouble": "0.09000000357627869"
+				}
+			},
+			"id": {
+				"$numberInt": "2"
+			}
+		},
+		"3": {
+			"title": "Red",
+			"body": "",
+			"color": "Red",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.8560000061988831"
+				},
+				"g": {
+					"$numberDouble": "0.10000000149011612"
+				},
+				"b": {
+					"$numberDouble": "0.09399999678134918"
+				}
+			},
+			"id": {
+				"$numberInt": "3"
+			}
+		},
+		"4": {
+			"title": "Orange",
+			"body": "",
+			"color": "Orange",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.9559999704360962"
+				},
+				"g": {
+					"$numberDouble": "0.3919999897480011"
+				},
+				"b": {
+					"$numberDouble": "0.11299999803304672"
+				}
+			},
+			"id": {
+				"$numberInt": "4"
+			}
+		},
+		"5": {
+			"title": "Yellow",
+			"body": "",
+			"color": "Yellow",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.9049999713897705"
+				},
+				"g": {
+					"$numberDouble": "0.8980000019073486"
+				},
+				"b": {
+					"$numberDouble": "0.1720000058412552"
+				}
+			},
+			"id": {
+				"$numberInt": "5"
+			}
+		},
+		"6": {
+			"title": "Green",
+			"body": "",
+			"color": "Green",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.19200000166893005"
+				},
+				"g": {
+					"$numberDouble": "0.7009999752044678"
+				},
+				"b": {
+					"$numberDouble": "0.1679999977350235"
+				}
+			},
+			"id": {
+				"$numberInt": "6"
+			}
+		},
+		"7": {
+			"title": "Blue",
+			"body": "",
+			"color": "Blue",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.11800000071525574"
+				},
+				"g": {
+					"$numberDouble": "0.5299999713897705"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"id": {
+				"$numberInt": "7"
+			}
+		},
+		"8": {
+			"title": "Teal",
+			"body": "",
+			"color": "Teal",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.1289999932050705"
+				},
+				"g": {
+					"$numberDouble": "0.6940000057220459"
+				},
+				"b": {
+					"$numberDouble": "0.6069999933242798"
+				}
+			},
+			"id": {
+				"$numberInt": "8"
+			}
+		},
+		"9": {
+			"title": "Purple",
+			"body": "",
+			"color": "Purple",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.6269999742507935"
+				},
+				"g": {
+					"$numberDouble": "0.125"
+				},
+				"b": {
+					"$numberDouble": "0.9409999847412109"
+				}
+			},
+			"id": {
+				"$numberInt": "9"
+			}
+		},
+		"10": {
+			"title": "Pink",
+			"body": "",
+			"color": "Pink",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.9599999785423279"
+				},
+				"g": {
+					"$numberDouble": "0.4390000104904175"
+				},
+				"b": {
+					"$numberDouble": "0.8069999814033508"
+				}
+			},
+			"id": {
+				"$numberInt": "10"
+			}
+		},
+		"11": {
+			"title": "Black",
+			"body": "",
+			"color": "Black",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.25"
+				},
+				"g": {
+					"$numberDouble": "0.25"
+				},
+				"b": {
+					"$numberDouble": "0.25"
+				}
+			},
+			"id": {
+				"$numberInt": "11"
+			}
+		}
+	},
+	"VersionNumber": "v12.3.5"
+}

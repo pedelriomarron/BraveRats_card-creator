@@ -1,0 +1,3647 @@
+{
+	"SaveName": "[ffcf00][B]BraveRats[/B][FFFFFF]",
+	"GameMode": "[ffcf00][B]BraveRats[/B][FFFFFF]",
+	"Date": "11/30/2020 2:41:47 PM",
+	"Gravity": {
+		"$numberDouble": "0.5"
+	},
+	"PlayArea": {
+		"$numberDouble": "0.5"
+	},
+	"GameType": "Game",
+	"GameComplexity": "Low Complexity",
+	"PlayingTime": [
+		{
+			"$numberInt": "0"
+		},
+		{
+			"$numberInt": "10"
+		}
+	],
+	"PlayerCounts": [
+		{
+			"$numberInt": "2"
+		},
+		{
+			"$numberInt": "2"
+		}
+	],
+	"Tags": [
+		"Card Games",
+		"Board Games",
+		"Strategy Games",
+		"Components",
+		"Cards",
+		"Figurines",
+		"Props",
+		"Rooms",
+		"Rules",
+		"Tables"
+	],
+	"Table": "Table_Custom",
+	"TableURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019150802/AF9B0FB3C1DC48272920A8C48FEBE59BAFEE363B/",
+	"Sky": "Sky_Regal",
+	"SkyURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019275521/06F60B7DA8DEDCB271AF19C59845F816A8083FF6/",
+	"Note": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[ffcf00][B]BraveRats[/B][FFFFFF]\r\nPar Seiji Kanai\nIllustré par Christophe Swal\r\nÉdité par Blue Orange\n----------\nMod créé par Malixx",
+	"Rules": "",
+	"Grid": {
+		"Type": {
+			"$numberInt": "0"
+		},
+		"Lines": false,
+		"Color": {
+			"r": {
+				"$numberDouble": "0.0"
+			},
+			"g": {
+				"$numberDouble": "0.0"
+			},
+			"b": {
+				"$numberDouble": "0.0"
+			}
+		},
+		"Opacity": {
+			"$numberDouble": "0.75"
+		},
+		"ThickLines": false,
+		"Snapping": false,
+		"Offset": false,
+		"BothSnapping": false,
+		"xSize": {
+			"$numberDouble": "2.0"
+		},
+		"ySize": {
+			"$numberDouble": "2.0"
+		},
+		"PosOffset": {
+			"x": {
+				"$numberDouble": "0.0"
+			},
+			"y": {
+				"$numberDouble": "1.0"
+			},
+			"z": {
+				"$numberDouble": "0.0"
+			}
+		}
+	},
+	"Lighting": {
+		"LightIntensity": {
+			"$numberDouble": "0.5400000214576721"
+		},
+		"LightColor": {
+			"r": {
+				"$numberDouble": "1.0"
+			},
+			"g": {
+				"$numberDouble": "0.980400025844574"
+			},
+			"b": {
+				"$numberDouble": "0.8902000188827515"
+			}
+		},
+		"AmbientIntensity": {
+			"$numberDouble": "1.2999999523162842"
+		},
+		"AmbientType": {
+			"$numberInt": "0"
+		},
+		"AmbientSkyColor": {
+			"r": {
+				"$numberDouble": "0.5"
+			},
+			"g": {
+				"$numberDouble": "0.5"
+			},
+			"b": {
+				"$numberDouble": "0.5"
+			}
+		},
+		"AmbientEquatorColor": {
+			"r": {
+				"$numberDouble": "0.5"
+			},
+			"g": {
+				"$numberDouble": "0.5"
+			},
+			"b": {
+				"$numberDouble": "0.5"
+			}
+		},
+		"AmbientGroundColor": {
+			"r": {
+				"$numberDouble": "0.5"
+			},
+			"g": {
+				"$numberDouble": "0.5"
+			},
+			"b": {
+				"$numberDouble": "0.5"
+			}
+		},
+		"ReflectionIntensity": {
+			"$numberDouble": "1.0"
+		},
+		"LutIndex": {
+			"$numberInt": "0"
+		},
+		"LutContribution": {
+			"$numberDouble": "1.0"
+		}
+	},
+	"Hands": {
+		"Enable": true,
+		"DisableUnused": false,
+		"Hiding": {
+			"$numberInt": "0"
+		},
+		"HandTransforms": [
+			{
+				"Color": "Red",
+				"Transform": {
+					"posX": {
+						"$numberDouble": "-51.65962219238281"
+					},
+					"posY": {
+						"$numberDouble": "3.2933783531188965"
+					},
+					"posZ": {
+						"$numberDouble": "0.0"
+					},
+					"rotX": {
+						"$numberDouble": "-0.0"
+					},
+					"rotY": {
+						"$numberDouble": "90.0"
+					},
+					"rotZ": {
+						"$numberDouble": "-0.0"
+					},
+					"scaleX": {
+						"$numberDouble": "15.201237678527832"
+					},
+					"scaleY": {
+						"$numberDouble": "11.897052764892578"
+					},
+					"scaleZ": {
+						"$numberDouble": "6.409559726715088"
+					}
+				}
+			},
+			{
+				"Color": "Blue",
+				"Transform": {
+					"posX": {
+						"$numberDouble": "51.64263153076172"
+					},
+					"posY": {
+						"$numberDouble": "3.2933783531188965"
+					},
+					"posZ": {
+						"$numberDouble": "0.0"
+					},
+					"rotX": {
+						"$numberDouble": "0.0"
+					},
+					"rotY": {
+						"$numberDouble": "270.0"
+					},
+					"rotZ": {
+						"$numberDouble": "0.0"
+					},
+					"scaleX": {
+						"$numberDouble": "15.201223373413086"
+					},
+					"scaleY": {
+						"$numberDouble": "11.897052764892578"
+					},
+					"scaleZ": {
+						"$numberDouble": "6.409559726715088"
+					}
+				}
+			}
+		]
+	},
+	"Turns": {
+		"Enable": false,
+		"Type": {
+			"$numberInt": "0"
+		},
+		"TurnOrder": [],
+		"Reverse": false,
+		"SkipEmpty": false,
+		"DisableInteractions": false,
+		"PassTurns": true,
+		"TurnColor": ""
+	},
+	"TabStates": {
+		"0": {
+			"title": "Rules",
+			"body": "Spécificités pour la carte Mime :\r\n• Si cette carte est jouée au 1er tour, celle-ci a une valeur de 5 sans effet.\r\n• Si la carte jouée par l'adversaire le tour précédent est aussi une carte \"?\", le Mime copie alors la carte qu'avait copié le Mime adverse du tour précédent. ",
+			"color": "Grey",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.5"
+				},
+				"g": {
+					"$numberDouble": "0.5"
+				},
+				"b": {
+					"$numberDouble": "0.5"
+				}
+			},
+			"id": {
+				"$numberInt": "0"
+			}
+		},
+		"1": {
+			"title": "White",
+			"body": "",
+			"color": "White",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"id": {
+				"$numberInt": "1"
+			}
+		},
+		"2": {
+			"title": "Brown",
+			"body": "",
+			"color": "Brown",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.4429999887943268"
+				},
+				"g": {
+					"$numberDouble": "0.23100000619888306"
+				},
+				"b": {
+					"$numberDouble": "0.09000000357627869"
+				}
+			},
+			"id": {
+				"$numberInt": "2"
+			}
+		},
+		"3": {
+			"title": "Red",
+			"body": "",
+			"color": "Red",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.8560000061988831"
+				},
+				"g": {
+					"$numberDouble": "0.10000000149011612"
+				},
+				"b": {
+					"$numberDouble": "0.09399999678134918"
+				}
+			},
+			"id": {
+				"$numberInt": "3"
+			}
+		},
+		"4": {
+			"title": "Orange",
+			"body": "",
+			"color": "Orange",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.9559999704360962"
+				},
+				"g": {
+					"$numberDouble": "0.3919999897480011"
+				},
+				"b": {
+					"$numberDouble": "0.11299999803304672"
+				}
+			},
+			"id": {
+				"$numberInt": "4"
+			}
+		},
+		"5": {
+			"title": "Yellow",
+			"body": "",
+			"color": "Yellow",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.9049999713897705"
+				},
+				"g": {
+					"$numberDouble": "0.8980000019073486"
+				},
+				"b": {
+					"$numberDouble": "0.1720000058412552"
+				}
+			},
+			"id": {
+				"$numberInt": "5"
+			}
+		},
+		"6": {
+			"title": "Green",
+			"body": "",
+			"color": "Green",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.19200000166893005"
+				},
+				"g": {
+					"$numberDouble": "0.7009999752044678"
+				},
+				"b": {
+					"$numberDouble": "0.1679999977350235"
+				}
+			},
+			"id": {
+				"$numberInt": "6"
+			}
+		},
+		"7": {
+			"title": "Blue",
+			"body": "",
+			"color": "Blue",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.11800000071525574"
+				},
+				"g": {
+					"$numberDouble": "0.5299999713897705"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"id": {
+				"$numberInt": "7"
+			}
+		},
+		"8": {
+			"title": "Teal",
+			"body": "",
+			"color": "Teal",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.1289999932050705"
+				},
+				"g": {
+					"$numberDouble": "0.6940000057220459"
+				},
+				"b": {
+					"$numberDouble": "0.6069999933242798"
+				}
+			},
+			"id": {
+				"$numberInt": "8"
+			}
+		},
+		"9": {
+			"title": "Purple",
+			"body": "",
+			"color": "Purple",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.6269999742507935"
+				},
+				"g": {
+					"$numberDouble": "0.125"
+				},
+				"b": {
+					"$numberDouble": "0.9409999847412109"
+				}
+			},
+			"id": {
+				"$numberInt": "9"
+			}
+		},
+		"10": {
+			"title": "Pink",
+			"body": "",
+			"color": "Pink",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.9599999785423279"
+				},
+				"g": {
+					"$numberDouble": "0.4390000104904175"
+				},
+				"b": {
+					"$numberDouble": "0.8069999814033508"
+				}
+			},
+			"id": {
+				"$numberInt": "10"
+			}
+		},
+		"11": {
+			"title": "Black",
+			"body": "",
+			"color": "Black",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.25"
+				},
+				"g": {
+					"$numberDouble": "0.25"
+				},
+				"b": {
+					"$numberDouble": "0.25"
+				}
+			},
+			"id": {
+				"$numberInt": "11"
+			}
+		}
+	},
+	"DecalPallet": [],
+	"ObjectStates": [
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.685855865478516"
+				},
+				"posY": {
+					"$numberDouble": "0.9736051559448242"
+				},
+				"posZ": {
+					"$numberDouble": "10.470568656921387"
+				},
+				"rotX": {
+					"$numberDouble": "-2.861733428005664E-08"
+				},
+				"rotY": {
+					"$numberDouble": "89.98053741455078"
+				},
+				"rotZ": {
+					"$numberDouble": "-6.630340720903405E-08"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "Le général",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1200"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"12": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019501957/4A7B4606B507EB93896E2BFE729A67DFF257266D/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "41a6f4"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.68822479248047"
+				},
+				"posY": {
+					"$numberDouble": "0.9736053347587585"
+				},
+				"posZ": {
+					"$numberDouble": "-0.009068496525287628"
+				},
+				"rotX": {
+					"$numberDouble": "-1.6340074182608078E-08"
+				},
+				"rotY": {
+					"$numberDouble": "89.9695816040039"
+				},
+				"rotZ": {
+					"$numberDouble": "1.6278214332032803E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "L'ambassadeur",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1300"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"13": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019502569/4F5F1172C85F02CEA1C7BCA634539A6D271765EA/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "f1392b"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.68822479248047"
+				},
+				"posY": {
+					"$numberDouble": "0.9736049175262451"
+				},
+				"posZ": {
+					"$numberDouble": "-10.480240821838379"
+				},
+				"rotX": {
+					"$numberDouble": "9.953482482671916E-10"
+				},
+				"rotY": {
+					"$numberDouble": "89.9940185546875"
+				},
+				"rotZ": {
+					"$numberDouble": "-2.0805970279980102E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "L'espion",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1400"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"14": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019503145/77C085F81349F5027A3A5EF7157CD3AF761DAC53/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "c40687"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.67784118652344"
+				},
+				"posY": {
+					"$numberDouble": "0.9736051559448242"
+				},
+				"posZ": {
+					"$numberDouble": "-20.972187042236328"
+				},
+				"rotX": {
+					"$numberDouble": "-4.095632633038804E-08"
+				},
+				"rotY": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"rotZ": {
+					"$numberDouble": "-1.6394794499774434E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "Le musicien",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1500"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"15": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019503719/93C310353300D67BD7B6E293E74B0E42086CAE95/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "011b71"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.672706604003906"
+				},
+				"posY": {
+					"$numberDouble": "0.9736053347587585"
+				},
+				"posZ": {
+					"$numberDouble": "-15.757552146911621"
+				},
+				"rotX": {
+					"$numberDouble": "2.711559643486794E-09"
+				},
+				"rotY": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"rotZ": {
+					"$numberDouble": "-9.68642623888627E-08"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "La Princesse",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1600"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"16": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019504353/DE6F96EE96D857A6D3DC1B3E6FAC1810EF57B4AA/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "fab016"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.66450500488281"
+				},
+				"posY": {
+					"$numberDouble": "0.9736050963401794"
+				},
+				"posZ": {
+					"$numberDouble": "20.949642181396484"
+				},
+				"rotX": {
+					"$numberDouble": "2.6177033873864275E-08"
+				},
+				"rotY": {
+					"$numberDouble": "89.97339630126953"
+				},
+				"rotZ": {
+					"$numberDouble": "-1.447495208140026E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "Le mime",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1700"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"17": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019504945/21DAC149B4E0932A4A85DD5D3E33AD4BF71A5D51/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "f0529e"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.677886962890625"
+				},
+				"posY": {
+					"$numberDouble": "0.9736053347587585"
+				},
+				"posZ": {
+					"$numberDouble": "-5.252683639526367"
+				},
+				"rotX": {
+					"$numberDouble": "-9.064849848527956E-08"
+				},
+				"rotY": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"rotZ": {
+					"$numberDouble": "1.0099889813375285E-08"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "L'assassin",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1800"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"18": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019505807/135669D44435DC3C7688A453F85B8857080A7A2A/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "44bb1b"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.68747329711914"
+				},
+				"posY": {
+					"$numberDouble": "0.9736050963401794"
+				},
+				"posZ": {
+					"$numberDouble": "5.2269368171691895"
+				},
+				"rotX": {
+					"$numberDouble": "-1.974484860056691E-07"
+				},
+				"rotY": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"rotZ": {
+					"$numberDouble": "-2.13691393469162E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "Le magicien",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1900"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"19": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019506348/E3B16D3E699E784FDFDA1EB6D58AFD1B46802A4E/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "b924a3"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.68933868408203"
+				},
+				"posY": {
+					"$numberDouble": "0.9736050963401794"
+				},
+				"posZ": {
+					"$numberDouble": "15.719335556030273"
+				},
+				"rotX": {
+					"$numberDouble": "-1.3956763744715772E-08"
+				},
+				"rotY": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"rotZ": {
+					"$numberDouble": "-2.1974767605570378E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "Le Prince",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "2000"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"20": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019497091/B707BE59491DF3C1B49D6B1E96CFCB26DBB3021F/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "688eea"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-37.96784973144531"
+				},
+				"posY": {
+					"$numberDouble": "0.9736045002937317"
+				},
+				"posZ": {
+					"$numberDouble": "-15.747183799743652"
+				},
+				"rotX": {
+					"$numberDouble": "4.08492795145321E-08"
+				},
+				"rotY": {
+					"$numberDouble": "269.9848937988281"
+				},
+				"rotZ": {
+					"$numberDouble": "-1.4497165068405593E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "Le Prince",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "200"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"2": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019491425/58E1CF024954B57749D2FB017C7670A8714EC552/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "7f0b91"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-37.95133590698242"
+				},
+				"posY": {
+					"$numberDouble": "0.9736043810844421"
+				},
+				"posZ": {
+					"$numberDouble": "0.023416792973876"
+				},
+				"rotX": {
+					"$numberDouble": "3.19598107978436E-08"
+				},
+				"rotY": {
+					"$numberDouble": "270.0234680175781"
+				},
+				"rotZ": {
+					"$numberDouble": "-8.670768636420689E-08"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "L'ambassadeur",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "300"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"3": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019491957/4A1B0BE22D33413197C321EB9ACAB658E5826028/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "aee257"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-37.95133590698242"
+				},
+				"posY": {
+					"$numberDouble": "0.9736045002937317"
+				},
+				"posZ": {
+					"$numberDouble": "10.494590759277344"
+				},
+				"rotX": {
+					"$numberDouble": "5.654058199411338E-08"
+				},
+				"rotY": {
+					"$numberDouble": "270.01226806640625"
+				},
+				"rotZ": {
+					"$numberDouble": "-1.3918129582179972E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "L'espion",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "400"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"4": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019492558/3BB433F65FBECF468619622ACDAA2DE6667E1C07/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "6e4008"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-37.94639587402344"
+				},
+				"posY": {
+					"$numberDouble": "0.9736053943634033"
+				},
+				"posZ": {
+					"$numberDouble": "-10.48133659362793"
+				},
+				"rotX": {
+					"$numberDouble": "1.0750541790116586E-08"
+				},
+				"rotY": {
+					"$numberDouble": "269.97467041015625"
+				},
+				"rotZ": {
+					"$numberDouble": "-1.515137455498916E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "Le général",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "500"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"5": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019493306/670D6D634FDAEF19130A69CFE7CB1B3242326509/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "3f0673"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-37.93581771850586"
+				},
+				"posY": {
+					"$numberDouble": "0.9736047983169556"
+				},
+				"posZ": {
+					"$numberDouble": "15.77190113067627"
+				},
+				"rotX": {
+					"$numberDouble": "4.281478283019169E-08"
+				},
+				"rotY": {
+					"$numberDouble": "269.98388671875"
+				},
+				"rotZ": {
+					"$numberDouble": "-1.215106379959252E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "La Princesse",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "600"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"6": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019493851/C2160AD9C74E7274E092645B42E5045BD5C4418C/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "509038"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-37.9749641418457"
+				},
+				"posY": {
+					"$numberDouble": "0.9736050963401794"
+				},
+				"posZ": {
+					"$numberDouble": "-20.98394775390625"
+				},
+				"rotX": {
+					"$numberDouble": "5.2981757647785344E-08"
+				},
+				"rotY": {
+					"$numberDouble": "269.9852600097656"
+				},
+				"rotZ": {
+					"$numberDouble": "9.799208555705263E-09"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "Le mime",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "700"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"7": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019494382/FB52F4ED23D911C0A62E625FA44E0C6386588963/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "0e4066"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-37.95056915283203"
+				},
+				"posY": {
+					"$numberDouble": "0.973605215549469"
+				},
+				"posZ": {
+					"$numberDouble": "-5.2127814292907715"
+				},
+				"rotX": {
+					"$numberDouble": "1.1250577358623559E-07"
+				},
+				"rotY": {
+					"$numberDouble": "269.98406982421875"
+				},
+				"rotZ": {
+					"$numberDouble": "8.247442728759324E-09"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "Le magicien",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "800"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"8": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019495761/D7691B55E5AAC778FD61884468C1BDDD2A539B5F/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "b97be7"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-37.940956115722656"
+				},
+				"posY": {
+					"$numberDouble": "0.9736050963401794"
+				},
+				"posZ": {
+					"$numberDouble": "20.986536026000977"
+				},
+				"rotX": {
+					"$numberDouble": "5.745481423957699E-09"
+				},
+				"rotY": {
+					"$numberDouble": "269.9937438964844"
+				},
+				"rotZ": {
+					"$numberDouble": "-1.811746983548801E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "Le musicien",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "900"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"9": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019496421/E10DAA49F57D1E3AA9E227720C844B5D581AFE19/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "bd9e6b"
+		},
+		{
+			"Name": "CardCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-37.94099807739258"
+				},
+				"posY": {
+					"$numberDouble": "0.9736050963401794"
+				},
+				"posZ": {
+					"$numberDouble": "5.267033100128174"
+				},
+				"rotX": {
+					"$numberDouble": "-1.4198522535480151E-07"
+				},
+				"rotY": {
+					"$numberDouble": "269.98406982421875"
+				},
+				"rotZ": {
+					"$numberDouble": "-1.458564184986244E-07"
+				},
+				"scaleX": {
+					"$numberDouble": "2.057219982147217"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.057219982147217"
+				}
+			},
+			"Nickname": "L'assassin",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": true,
+			"CardID": {
+				"$numberInt": "1100"
+			},
+			"SidewaysCard": false,
+			"CustomDeck": {
+				"11": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019497982/EFC2358B0B52F8BC1BD09E57C44256A54D6BB7EB/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019153767/DD2BEFA3F8EC2E6FE144EF5AB5ABB954768D44A0/",
+					"NumWidth": {
+						"$numberInt": "1"
+					},
+					"NumHeight": {
+						"$numberInt": "1"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "8a50e1"
+		},
+		{
+			"Name": "Custom_Token",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "1.7241699197256821E-06"
+				},
+				"posY": {
+					"$numberDouble": "1.7692394256591797"
+				},
+				"posZ": {
+					"$numberDouble": "-5.964690685272217"
+				},
+				"rotX": {
+					"$numberDouble": "90.0"
+				},
+				"rotY": {
+					"$numberDouble": "90.66072845458984"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "0.5049532651901245"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "0.5049532651901245"
+				}
+			},
+			"Nickname": "Couronne",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomImage": {
+				"ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019171537/C49C81CC8B0487D10F535A2546D35C23255CF89A/",
+				"ImageSecondaryURL": "",
+				"ImageScalar": {
+					"$numberDouble": "1.0"
+				},
+				"WidthScale": {
+					"$numberDouble": "0.0"
+				},
+				"CustomToken": {
+					"Thickness": {
+						"$numberDouble": "0.584999680519104"
+					},
+					"MergeDistancePixels": {
+						"$numberDouble": "15.0"
+					},
+					"StandUp": false,
+					"Stackable": false
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "e72214"
+		},
+		{
+			"Name": "Custom_Token",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "7.452076715708245E-07"
+				},
+				"posY": {
+					"$numberDouble": "1.7692394256591797"
+				},
+				"posZ": {
+					"$numberDouble": "-9.067934036254883"
+				},
+				"rotX": {
+					"$numberDouble": "90.0"
+				},
+				"rotY": {
+					"$numberDouble": "89.51465606689453"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "0.5049532651901245"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "0.5049532651901245"
+				}
+			},
+			"Nickname": "Couronne",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomImage": {
+				"ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019171537/C49C81CC8B0487D10F535A2546D35C23255CF89A/",
+				"ImageSecondaryURL": "",
+				"ImageScalar": {
+					"$numberDouble": "1.0"
+				},
+				"WidthScale": {
+					"$numberDouble": "0.0"
+				},
+				"CustomToken": {
+					"Thickness": {
+						"$numberDouble": "0.584999680519104"
+					},
+					"MergeDistancePixels": {
+						"$numberDouble": "15.0"
+					},
+					"StandUp": false,
+					"Stackable": false
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "c48fcc"
+		},
+		{
+			"Name": "Custom_Token",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "3.6642563827626873E-07"
+				},
+				"posY": {
+					"$numberDouble": "1.7692394256591797"
+				},
+				"posZ": {
+					"$numberDouble": "-2.84635591506958"
+				},
+				"rotX": {
+					"$numberDouble": "90.0"
+				},
+				"rotY": {
+					"$numberDouble": "89.2485122680664"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "0.5049532651901245"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "0.5049532651901245"
+				}
+			},
+			"Nickname": "Couronne",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomImage": {
+				"ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019171537/C49C81CC8B0487D10F535A2546D35C23255CF89A/",
+				"ImageSecondaryURL": "",
+				"ImageScalar": {
+					"$numberDouble": "1.0"
+				},
+				"WidthScale": {
+					"$numberDouble": "0.0"
+				},
+				"CustomToken": {
+					"Thickness": {
+						"$numberDouble": "0.584999680519104"
+					},
+					"MergeDistancePixels": {
+						"$numberDouble": "15.0"
+					},
+					"StandUp": false,
+					"Stackable": false
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "ba5629"
+		},
+		{
+			"Name": "Custom_Token",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-0.0004414095892570913"
+				},
+				"posY": {
+					"$numberDouble": "1.7692394256591797"
+				},
+				"posZ": {
+					"$numberDouble": "0.07618850469589233"
+				},
+				"rotX": {
+					"$numberDouble": "90.0"
+				},
+				"rotY": {
+					"$numberDouble": "89.54304504394531"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "0.5049532651901245"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "0.5049532651901245"
+				}
+			},
+			"Nickname": "Couronne",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomImage": {
+				"ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019171537/C49C81CC8B0487D10F535A2546D35C23255CF89A/",
+				"ImageSecondaryURL": "",
+				"ImageScalar": {
+					"$numberDouble": "1.0"
+				},
+				"WidthScale": {
+					"$numberDouble": "0.0"
+				},
+				"CustomToken": {
+					"Thickness": {
+						"$numberDouble": "0.584999680519104"
+					},
+					"MergeDistancePixels": {
+						"$numberDouble": "15.0"
+					},
+					"StandUp": false,
+					"Stackable": false
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "10225c"
+		},
+		{
+			"Name": "Custom_Token",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "2.760375927834957E-08"
+				},
+				"posY": {
+					"$numberDouble": "1.7692394256591797"
+				},
+				"posZ": {
+					"$numberDouble": "2.971266984939575"
+				},
+				"rotX": {
+					"$numberDouble": "90.0"
+				},
+				"rotY": {
+					"$numberDouble": "89.35771942138672"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "0.5049532651901245"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "0.5049532651901245"
+				}
+			},
+			"Nickname": "Couronne",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomImage": {
+				"ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019171537/C49C81CC8B0487D10F535A2546D35C23255CF89A/",
+				"ImageSecondaryURL": "",
+				"ImageScalar": {
+					"$numberDouble": "1.0"
+				},
+				"WidthScale": {
+					"$numberDouble": "0.0"
+				},
+				"CustomToken": {
+					"Thickness": {
+						"$numberDouble": "0.584999680519104"
+					},
+					"MergeDistancePixels": {
+						"$numberDouble": "15.0"
+					},
+					"StandUp": false,
+					"Stackable": false
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "a9b4d5"
+		},
+		{
+			"Name": "Custom_Token",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-9.140875079083344E-08"
+				},
+				"posY": {
+					"$numberDouble": "1.7692394256591797"
+				},
+				"posZ": {
+					"$numberDouble": "9.228055953979492"
+				},
+				"rotX": {
+					"$numberDouble": "90.0"
+				},
+				"rotY": {
+					"$numberDouble": "89.39301300048828"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "0.5049532651901245"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "0.5049532651901245"
+				}
+			},
+			"Nickname": "Couronne",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomImage": {
+				"ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019171537/C49C81CC8B0487D10F535A2546D35C23255CF89A/",
+				"ImageSecondaryURL": "",
+				"ImageScalar": {
+					"$numberDouble": "1.0"
+				},
+				"WidthScale": {
+					"$numberDouble": "0.0"
+				},
+				"CustomToken": {
+					"Thickness": {
+						"$numberDouble": "0.584999680519104"
+					},
+					"MergeDistancePixels": {
+						"$numberDouble": "15.0"
+					},
+					"StandUp": false,
+					"Stackable": false
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "14852a"
+		},
+		{
+			"Name": "Custom_Token",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "1.3225777593106613E-06"
+				},
+				"posY": {
+					"$numberDouble": "1.7692394256591797"
+				},
+				"posZ": {
+					"$numberDouble": "6.1092448234558105"
+				},
+				"rotX": {
+					"$numberDouble": "90.0"
+				},
+				"rotY": {
+					"$numberDouble": "90.6210708618164"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "0.5049532651901245"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "0.5049532651901245"
+				}
+			},
+			"Nickname": "Couronne",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomImage": {
+				"ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019171537/C49C81CC8B0487D10F535A2546D35C23255CF89A/",
+				"ImageSecondaryURL": "",
+				"ImageScalar": {
+					"$numberDouble": "1.0"
+				},
+				"WidthScale": {
+					"$numberDouble": "0.0"
+				},
+				"CustomToken": {
+					"Thickness": {
+						"$numberDouble": "0.584999680519104"
+					},
+					"MergeDistancePixels": {
+						"$numberDouble": "15.0"
+					},
+					"StandUp": false,
+					"Stackable": false
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "be87b5"
+		},
+		{
+			"Name": "FogOfWarTrigger",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-37.96727752685547"
+				},
+				"posY": {
+					"$numberDouble": "3.5111348628997803"
+				},
+				"posZ": {
+					"$numberDouble": "0.06291770935058594"
+				},
+				"rotX": {
+					"$numberDouble": "-0.0"
+				},
+				"rotY": {
+					"$numberDouble": "90.00006866455078"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "48.1905632019043"
+				},
+				"scaleY": {
+					"$numberDouble": "5.099999904632568"
+				},
+				"scaleZ": {
+					"$numberDouble": "7.845787048339844"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.8560000061988831"
+				},
+				"g": {
+					"$numberDouble": "0.09999997168779373"
+				},
+				"b": {
+					"$numberDouble": "0.0939999595284462"
+				},
+				"a": {
+					"$numberDouble": "0.25"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"FogColor": "Red",
+			"FogHidePointers": false,
+			"FogReverseHiding": false,
+			"FogSeethrough": true,
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "774226"
+		},
+		{
+			"Name": "FogOfWarTrigger",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "37.554405212402344"
+				},
+				"posY": {
+					"$numberDouble": "3.5111348628997803"
+				},
+				"posZ": {
+					"$numberDouble": "-0.11314010620117188"
+				},
+				"rotX": {
+					"$numberDouble": "-0.0"
+				},
+				"rotY": {
+					"$numberDouble": "90.00006866455078"
+				},
+				"rotZ": {
+					"$numberDouble": "0.0"
+				},
+				"scaleX": {
+					"$numberDouble": "48.08595275878906"
+				},
+				"scaleY": {
+					"$numberDouble": "5.099999904632568"
+				},
+				"scaleZ": {
+					"$numberDouble": "7.880657196044922"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.11799997836351395"
+				},
+				"g": {
+					"$numberDouble": "0.5299999713897705"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				},
+				"a": {
+					"$numberDouble": "0.25"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"FogColor": "Blue",
+			"FogHidePointers": false,
+			"FogReverseHiding": false,
+			"FogSeethrough": true,
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "ee95a4"
+		},
+		{
+			"Name": "Custom_PDF",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "5.3139239753363654E-05"
+				},
+				"posY": {
+					"$numberDouble": "4.502013683319092"
+				},
+				"posZ": {
+					"$numberDouble": "-32.175025939941406"
+				},
+				"rotX": {
+					"$numberDouble": "45.000003814697266"
+				},
+				"rotY": {
+					"$numberDouble": "359.98919677734375"
+				},
+				"rotZ": {
+					"$numberDouble": "9.609824047629445E-08"
+				},
+				"scaleX": {
+					"$numberDouble": "2.4240453243255615"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.4240453243255615"
+				}
+			},
+			"Nickname": "Livret de règles BraveRats",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomPDF": {
+				"PDFUrl": "http://cloud-3.steamusercontent.com/ugc/1651095822019216370/03EDBA93722160DEA67CCBC66B0B08C1890AB93D/",
+				"PDFPassword": "",
+				"PDFPage": {
+					"$numberInt": "0"
+				},
+				"PDFPageOffset": {
+					"$numberInt": "0"
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "e72683"
+		},
+		{
+			"Name": "Custom_Token",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-0.00016970650176517665"
+				},
+				"posY": {
+					"$numberDouble": "4.11273717880249"
+				},
+				"posZ": {
+					"$numberDouble": "31.127513885498047"
+				},
+				"rotX": {
+					"$numberDouble": "45.000057220458984"
+				},
+				"rotY": {
+					"$numberDouble": "179.91375732421875"
+				},
+				"rotZ": {
+					"$numberDouble": "9.432961967092979E-09"
+				},
+				"scaleX": {
+					"$numberDouble": "2.8645524978637695"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "2.8645524978637695"
+				}
+			},
+			"Nickname": "Tableau récapitulatif",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "1.0"
+				},
+				"g": {
+					"$numberDouble": "1.0"
+				},
+				"b": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Locked": true,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": false,
+			"Hands": false,
+			"CustomImage": {
+				"ImageURL": "http://cloud-3.steamusercontent.com/ugc/1651095822019222879/52C7DF7BE9F21A8004293BF90592210F1DE96821/",
+				"ImageSecondaryURL": "",
+				"ImageScalar": {
+					"$numberDouble": "1.0"
+				},
+				"WidthScale": {
+					"$numberDouble": "0.0"
+				},
+				"CustomToken": {
+					"Thickness": {
+						"$numberDouble": "0.20000000298023224"
+					},
+					"MergeDistancePixels": {
+						"$numberDouble": "15.0"
+					},
+					"StandUp": false,
+					"Stackable": false
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"GUID": "68d5ca"
+		}
+	],
+	"LuaScript": "--[[ Lua code. See documentation: https://api.tabletopsimulator.com/ --]]\n\n--[[ The onLoad event is called after the game save finishes loading. --]]\nfunction onLoad()\n    --[[ print('onLoad!') --]]\nend\n\n--[[ The onUpdate event is called once per frame. --]]\nfunction onUpdate()\n    --[[ print('onUpdate loop!') --]]\nend",
+	"LuaScriptState": "",
+	"XmlUI": "<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->",
+	"SnapPoints": [
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-37.940956115722656"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "20.986536026000977"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "1.1209207428919399E-07"
+				},
+				"y": {
+					"$numberDouble": "269.98388671875"
+				},
+				"z": {
+					"$numberDouble": "1.4505357626148907E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-37.93581771850586"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "15.77190113067627"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "9.872851336467647E-08"
+				},
+				"y": {
+					"$numberDouble": "269.98388671875"
+				},
+				"z": {
+					"$numberDouble": "1.206957733757008E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-37.95133590698242"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "10.494590759277344"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "9.376022802598527E-08"
+				},
+				"y": {
+					"$numberDouble": "269.98388671875"
+				},
+				"z": {
+					"$numberDouble": "1.4540641757321282E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-37.94099807739258"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "5.267033100128174"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "1.7935924745415832E-07"
+				},
+				"y": {
+					"$numberDouble": "269.98388671875"
+				},
+				"z": {
+					"$numberDouble": "2.7832874138766783E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-37.95133590698242"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "0.023416792973876"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "1.2265751081486087E-07"
+				},
+				"y": {
+					"$numberDouble": "269.98388671875"
+				},
+				"z": {
+					"$numberDouble": "1.7056196099929366E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-37.95056915283203"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-5.2127814292907715"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "1.1569253643983757E-07"
+				},
+				"y": {
+					"$numberDouble": "269.98406982421875"
+				},
+				"z": {
+					"$numberDouble": "-9.19827343182078E-08"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-37.94639587402344"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-10.48133659362793"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "1.029743089020485E-06"
+				},
+				"y": {
+					"$numberDouble": "269.98406982421875"
+				},
+				"z": {
+					"$numberDouble": "6.1939902096241894E-09"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-37.9749641418457"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-20.98394775390625"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-7.935881285447977E-09"
+				},
+				"y": {
+					"$numberDouble": "269.98406982421875"
+				},
+				"z": {
+					"$numberDouble": "-6.117687689766171E-08"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-37.96784973144531"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-15.747183799743652"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-7.593139343953226E-07"
+				},
+				"y": {
+					"$numberDouble": "269.9937438964844"
+				},
+				"z": {
+					"$numberDouble": "3.5447897062113043E-06"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-6.027342319488525"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-0.02863496169447899"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-9.171012038677873E-08"
+				},
+				"y": {
+					"$numberDouble": "269.98492431640625"
+				},
+				"z": {
+					"$numberDouble": "1.3918283059410896E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-5.981900691986084"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-5.204708576202393"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "5.323452256789096E-08"
+				},
+				"y": {
+					"$numberDouble": "269.9837646484375"
+				},
+				"z": {
+					"$numberDouble": "3.3115767905655957E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "5.703818321228027"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-0.014064515009522438"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "5.040107442511044E-09"
+				},
+				"y": {
+					"$numberDouble": "89.99727630615234"
+				},
+				"z": {
+					"$numberDouble": "-3.571307516381239E-08"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "5.694653511047363"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "5.238976001739502"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-4.568700973095474E-08"
+				},
+				"y": {
+					"$numberDouble": "90.01751708984375"
+				},
+				"z": {
+					"$numberDouble": "1.3870869963739096E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "37.67784118652344"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-20.972187042236328"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-2.217425576489518E-09"
+				},
+				"y": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"z": {
+					"$numberDouble": "-9.595932226602599E-08"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "37.672706604003906"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-15.757552146911621"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "2.0424074591574026E-06"
+				},
+				"y": {
+					"$numberDouble": "89.99335479736328"
+				},
+				"z": {
+					"$numberDouble": "-2.901475272665266E-05"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "37.68822479248047"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-10.480240821838379"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-6.672780159533431E-07"
+				},
+				"y": {
+					"$numberDouble": "89.9940185546875"
+				},
+				"z": {
+					"$numberDouble": "1.542158429401752E-06"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "37.677886962890625"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-5.252683162689209"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-2.7382652589835743E-08"
+				},
+				"y": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"z": {
+					"$numberDouble": "5.180866935461381E-08"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "37.68822479248047"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-0.009068460203707218"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "1.193339382865588E-08"
+				},
+				"y": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"z": {
+					"$numberDouble": "9.980077919635733E-08"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "37.68747329711914"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "5.2269368171691895"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-1.335853738737569E-07"
+				},
+				"y": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"z": {
+					"$numberDouble": "-1.2748061806178157E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "37.685855865478516"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "10.470568656921387"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-3.491038569336524E-08"
+				},
+				"y": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"z": {
+					"$numberDouble": "-1.1436573998935273E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "37.68933868408203"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "15.719335556030273"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-8.581333865720353E-09"
+				},
+				"y": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"z": {
+					"$numberDouble": "-1.0746747136636259E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "37.66450500488281"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "20.949642181396484"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "-3.826276184781818E-08"
+				},
+				"y": {
+					"$numberDouble": "89.99349212646484"
+				},
+				"z": {
+					"$numberDouble": "-1.4689707938941865E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-5.955374240875244"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "6.124375343322754"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "5.6684289120312314E-06"
+				},
+				"y": {
+					"$numberDouble": "269.99835205078125"
+				},
+				"z": {
+					"$numberDouble": "5.630668965750374E-06"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-5.963971138000488"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "15.232112884521484"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "6.004887836752459E-06"
+				},
+				"y": {
+					"$numberDouble": "269.9984436035156"
+				},
+				"z": {
+					"$numberDouble": "9.382181360706454E-07"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-5.966227054595947"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "12.134212493896484"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "1.0537663001741748E-05"
+				},
+				"y": {
+					"$numberDouble": "269.99774169921875"
+				},
+				"z": {
+					"$numberDouble": "4.916591933579184E-06"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-5.982004165649414"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "9.039350509643555"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "7.908418410806917E-06"
+				},
+				"y": {
+					"$numberDouble": "269.9984436035156"
+				},
+				"z": {
+					"$numberDouble": "4.750407697429182E-06"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "5.691869735717773"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-15.2383451461792"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "5.300830707710702E-06"
+				},
+				"y": {
+					"$numberDouble": "89.96926879882812"
+				},
+				"z": {
+					"$numberDouble": "8.911469194572419E-06"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "5.6941118240356445"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-12.140471458435059"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "3.344983497299836E-06"
+				},
+				"y": {
+					"$numberDouble": "89.96994018554688"
+				},
+				"z": {
+					"$numberDouble": "1.1953735338465776E-05"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "5.703495025634766"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-9.011305809020996"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "1.5695330148446374E-05"
+				},
+				"y": {
+					"$numberDouble": "89.97030639648438"
+				},
+				"z": {
+					"$numberDouble": "-1.4367200265041902E-06"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "5.705672740936279"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-6.143293857574463"
+				}
+			},
+			"Rotation": {
+				"x": {
+					"$numberDouble": "7.857661330490373E-06"
+				},
+				"y": {
+					"$numberDouble": "89.97026824951172"
+				},
+				"z": {
+					"$numberDouble": "1.0679426850401796E-05"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "7.856684902662892E-08"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "9.228055953979492"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "6.85726718074875E-07"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "6.109246730804443"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "1.6658418644510675E-08"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "2.971266984939575"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-0.0004414909053593874"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "0.07618902623653412"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "1.2084504064091561E-08"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-2.8463547229766846"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "4.425655788509175E-07"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-5.964688301086426"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "1.36090548608081E-07"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-9.067934036254883"
+				}
+			}
+		}
+	],
+	"VersionNumber": "v12.4.3"
+}

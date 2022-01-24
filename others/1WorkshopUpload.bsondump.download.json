@@ -1,0 +1,1834 @@
+{
+	"SaveName": "Custom",
+	"GameMode": "Custom",
+	"Date": "9/10/2020 2:22:52 PM",
+	"Gravity": {
+		"$numberDouble": "0.5"
+	},
+	"PlayArea": {
+		"$numberDouble": "0.5"
+	},
+	"GameType": "",
+	"GameComplexity": "",
+	"Tags": [],
+	"Table": "Table_Square",
+	"Sky": "Sky_Cathedral",
+	"Note": "",
+	"Rules": "",
+	"Grid": {
+		"Type": {
+			"$numberInt": "0"
+		},
+		"Lines": false,
+		"Color": {
+			"r": {
+				"$numberDouble": "0.0"
+			},
+			"g": {
+				"$numberDouble": "0.0"
+			},
+			"b": {
+				"$numberDouble": "0.0"
+			}
+		},
+		"Opacity": {
+			"$numberDouble": "0.75"
+		},
+		"ThickLines": false,
+		"Snapping": false,
+		"Offset": false,
+		"BothSnapping": false,
+		"xSize": {
+			"$numberDouble": "2.0"
+		},
+		"ySize": {
+			"$numberDouble": "2.0"
+		},
+		"PosOffset": {
+			"x": {
+				"$numberDouble": "0.0"
+			},
+			"y": {
+				"$numberDouble": "1.0"
+			},
+			"z": {
+				"$numberDouble": "0.0"
+			}
+		}
+	},
+	"Lighting": {
+		"LightIntensity": {
+			"$numberDouble": "0.5400000214576721"
+		},
+		"LightColor": {
+			"r": {
+				"$numberDouble": "1.0"
+			},
+			"g": {
+				"$numberDouble": "0.980400025844574"
+			},
+			"b": {
+				"$numberDouble": "0.8902000188827515"
+			}
+		},
+		"AmbientIntensity": {
+			"$numberDouble": "1.2999999523162842"
+		},
+		"AmbientType": {
+			"$numberInt": "0"
+		},
+		"AmbientSkyColor": {
+			"r": {
+				"$numberDouble": "0.5"
+			},
+			"g": {
+				"$numberDouble": "0.5"
+			},
+			"b": {
+				"$numberDouble": "0.5"
+			}
+		},
+		"AmbientEquatorColor": {
+			"r": {
+				"$numberDouble": "0.5"
+			},
+			"g": {
+				"$numberDouble": "0.5"
+			},
+			"b": {
+				"$numberDouble": "0.5"
+			}
+		},
+		"AmbientGroundColor": {
+			"r": {
+				"$numberDouble": "0.5"
+			},
+			"g": {
+				"$numberDouble": "0.5"
+			},
+			"b": {
+				"$numberDouble": "0.5"
+			}
+		},
+		"ReflectionIntensity": {
+			"$numberDouble": "1.0"
+		},
+		"LutIndex": {
+			"$numberInt": "0"
+		},
+		"LutContribution": {
+			"$numberDouble": "1.0"
+		}
+	},
+	"Hands": {
+		"Enable": true,
+		"DisableUnused": false,
+		"Hiding": {
+			"$numberInt": "0"
+		},
+		"HandTransforms": [
+			{
+				"Color": "Purple",
+				"Transform": {
+					"posX": {
+						"$numberDouble": "14.380121231079102"
+					},
+					"posY": {
+						"$numberDouble": "2.972545623779297"
+					},
+					"posZ": {
+						"$numberDouble": "0.14129638671875"
+					},
+					"rotX": {
+						"$numberDouble": "0.0"
+					},
+					"rotY": {
+						"$numberDouble": "270.0"
+					},
+					"rotZ": {
+						"$numberDouble": "0.0"
+					},
+					"scaleX": {
+						"$numberDouble": "9.396261215209961"
+					},
+					"scaleY": {
+						"$numberDouble": "6.634498596191406"
+					},
+					"scaleZ": {
+						"$numberDouble": "3.52336049079895"
+					}
+				}
+			},
+			{
+				"Color": "White",
+				"Transform": {
+					"posX": {
+						"$numberDouble": "0.03270386904478073"
+					},
+					"posY": {
+						"$numberDouble": "2.972484588623047"
+					},
+					"posZ": {
+						"$numberDouble": "-14.371990203857422"
+					},
+					"rotX": {
+						"$numberDouble": "-0.0"
+					},
+					"rotY": {
+						"$numberDouble": "0.0"
+					},
+					"rotZ": {
+						"$numberDouble": "0.0"
+					},
+					"scaleX": {
+						"$numberDouble": "9.392744064331055"
+					},
+					"scaleY": {
+						"$numberDouble": "6.634498596191406"
+					},
+					"scaleZ": {
+						"$numberDouble": "3.5226123332977295"
+					}
+				}
+			},
+			{
+				"Color": "Green",
+				"Transform": {
+					"posX": {
+						"$numberDouble": "0.03270386904478073"
+					},
+					"posY": {
+						"$numberDouble": "2.972278594970703"
+					},
+					"posZ": {
+						"$numberDouble": "14.278488159179688"
+					},
+					"rotX": {
+						"$numberDouble": "0.0"
+					},
+					"rotY": {
+						"$numberDouble": "180.0"
+					},
+					"rotZ": {
+						"$numberDouble": "0.0"
+					},
+					"scaleX": {
+						"$numberDouble": "9.394615173339844"
+					},
+					"scaleY": {
+						"$numberDouble": "6.634498596191406"
+					},
+					"scaleZ": {
+						"$numberDouble": "3.5232670307159424"
+					}
+				}
+			},
+			{
+				"Color": "Orange",
+				"Transform": {
+					"posX": {
+						"$numberDouble": "-14.291229248046875"
+					},
+					"posY": {
+						"$numberDouble": "2.972545623779297"
+					},
+					"posZ": {
+						"$numberDouble": "-0.058300018310546875"
+					},
+					"rotX": {
+						"$numberDouble": "-0.0"
+					},
+					"rotY": {
+						"$numberDouble": "90.0"
+					},
+					"rotZ": {
+						"$numberDouble": "-0.0"
+					},
+					"scaleX": {
+						"$numberDouble": "9.396261215209961"
+					},
+					"scaleY": {
+						"$numberDouble": "6.634498596191406"
+					},
+					"scaleZ": {
+						"$numberDouble": "3.52336049079895"
+					}
+				}
+			}
+		]
+	},
+	"Turns": {
+		"Enable": false,
+		"Type": {
+			"$numberInt": "0"
+		},
+		"TurnOrder": [],
+		"Reverse": false,
+		"SkipEmpty": false,
+		"DisableInteractions": false,
+		"PassTurns": true,
+		"TurnColor": ""
+	},
+	"TabStates": {
+		"0": {
+			"title": "Rules",
+			"body": "Setup\r\nEach player takes a set of 8 cards of the same color.\r\n\r\r\nObject of the Game\r\nEach player represents a clan and competes to win control of the kingdom.\n\nEnd of the Game\r\nThe game ends when a player has won 4 rounds. This player's clan conquers the kingdom!\r\n\r\nIf the players run out of cards before this happens, declare a tie and play again!\n\nGame Play\nPlayers secretly choose one of their cards and place it face down in front of them.\n\nStarting a round:\r\nOnce the 2 cards have been selected, both players flip over their cards at the same time.\r\n\r\nEach card has a strength and a special power that both determine who wins the round. The card with the highest strength wins, but some special powers can overrule this.\r\n\r\nThe special powers are mandatory and always count.\r\n\r\r\nThe following rounds:\r\nSet the cards aside with the losing card turned face down as a reminder of who won the round. The game then proceeds to the next round.\r\n\r\nBoth players choose a new card from their hand and simultaneously reveal them.\r\n\r\nIn the case of a draw (the strength of both cards is equal), the round is put on hold. The winner of the next round also wins the previous round that was on hold (it may happen that several rounds in a row are on hold).",
+			"color": "Grey",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.5"
+				},
+				"g": {
+					"$numberDouble": "0.5"
+				},
+				"b": {
+					"$numberDouble": "0.5"
+				}
+			},
+			"id": {
+				"$numberInt": "0"
+			}
+		},
+		"13": {
+			"title": "Meta",
+			"body": "Metagame advice from Genghis Khandybar, pHd in Brave Rats. YMMV.\n\nFirst round: Only choose from spy (2), assassin (3), and ambassador (4). Any other choice will leave you too weak to get 4 victories easily in further rounds.\n\nAvoid using Musician (0) until your opponent has played spy. Having to reveal your card and not having musician is deadly, especially if there are rounds on hold (if you played musician into their spy)\n\nOnce you have 1-2 victories, start the General (6) -> Wizard (5) combo. This is an easy way to get at least 1 guaraunteed win. If the +2'd wizard ties against a prince, using your own prince the next round or going musician -> prince.",
+			"color": "Grey",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.5"
+				},
+				"g": {
+					"$numberDouble": "0.5"
+				},
+				"b": {
+					"$numberDouble": "0.5"
+				}
+			},
+			"id": {
+				"$numberInt": "13"
+			}
+		},
+		"12": {
+			"title": "Lore",
+			"body": "With the sudden disappearance of the King of Rats, the kingdom is now without a sovereign. Two rat clans have come forth in a struggle for power.\r\n\r\nThe Yargs are barbarian rats, famous for their expertise in combat and their impressive size. They wear the color blue into battle.\r\n\r\nThe Apple woods are civilized rats but are notorious for their obsession with jewelry and hoarding riches. They wear the color red into battle.\r\nThe clashing clans prepare to fight for the crown, but a heavy secret weighs on the clans: both of their princes are secretly in love with the princess of their enemy's clan!\r\n\r\nWhile the strongest rat usually wins the fight, a clever tactician will use each rat's special power to sway the course of battle. Can you lead your clan to seize control of the kingdom?",
+			"color": "Grey",
+			"visibleColor": {
+				"r": {
+					"$numberDouble": "0.5"
+				},
+				"g": {
+					"$numberDouble": "0.5"
+				},
+				"b": {
+					"$numberDouble": "0.5"
+				}
+			},
+			"id": {
+				"$numberInt": "12"
+			}
+		}
+	},
+	"DecalPallet": [],
+	"ObjectStates": [
+		{
+			"Name": "DeckCustom",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-0.21205125749111176"
+				},
+				"posY": {
+					"$numberDouble": "1.0194365978240967"
+				},
+				"posZ": {
+					"$numberDouble": "-10.533187866210938"
+				},
+				"rotX": {
+					"$numberDouble": "1.631866325624287E-05"
+				},
+				"rotY": {
+					"$numberDouble": "179.99998474121094"
+				},
+				"rotZ": {
+					"$numberDouble": "7.452273109720409E-08"
+				},
+				"scaleX": {
+					"$numberDouble": "1.0"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": false,
+			"SidewaysCard": false,
+			"DeckIDs": [
+				{
+					"$numberInt": "302"
+				},
+				{
+					"$numberInt": "301"
+				},
+				{
+					"$numberInt": "304"
+				},
+				{
+					"$numberInt": "307"
+				},
+				{
+					"$numberInt": "300"
+				},
+				{
+					"$numberInt": "305"
+				},
+				{
+					"$numberInt": "303"
+				},
+				{
+					"$numberInt": "306"
+				}
+			],
+			"CustomDeck": {
+				"3": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725222/DBC7633E33988F17D21A8ED884800653BB23759F/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+					"NumWidth": {
+						"$numberInt": "3"
+					},
+					"NumHeight": {
+						"$numberInt": "3"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"ContainedObjects": [
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-1.6170618534088135"
+						},
+						"posY": {
+							"$numberDouble": "0.9905503988265991"
+						},
+						"posZ": {
+							"$numberDouble": "-9.4702730178833"
+						},
+						"rotX": {
+							"$numberDouble": "-5.090083504910581E-06"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "180.0"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "302"
+					},
+					"SidewaysCard": false,
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"ContainedObjects": [],
+					"GUID": "15a573"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-1.6170618534088135"
+						},
+						"posY": {
+							"$numberDouble": "0.9905503988265991"
+						},
+						"posZ": {
+							"$numberDouble": "-9.4702730178833"
+						},
+						"rotX": {
+							"$numberDouble": "-5.090083504910581E-06"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "180.0"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "301"
+					},
+					"SidewaysCard": false,
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"ContainedObjects": [],
+					"GUID": "39bfcc"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-1.6170618534088135"
+						},
+						"posY": {
+							"$numberDouble": "0.9905503988265991"
+						},
+						"posZ": {
+							"$numberDouble": "-9.4702730178833"
+						},
+						"rotX": {
+							"$numberDouble": "-5.090083504910581E-06"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "180.0"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "304"
+					},
+					"SidewaysCard": false,
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"ContainedObjects": [],
+					"GUID": "9589c7"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-1.6170618534088135"
+						},
+						"posY": {
+							"$numberDouble": "0.9905503988265991"
+						},
+						"posZ": {
+							"$numberDouble": "-9.4702730178833"
+						},
+						"rotX": {
+							"$numberDouble": "-5.090083504910581E-06"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "180.0"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "307"
+					},
+					"SidewaysCard": false,
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"ContainedObjects": [],
+					"GUID": "7c3e2c"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-1.6170618534088135"
+						},
+						"posY": {
+							"$numberDouble": "0.9905503988265991"
+						},
+						"posZ": {
+							"$numberDouble": "-9.4702730178833"
+						},
+						"rotX": {
+							"$numberDouble": "-5.090083504910581E-06"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "180.0"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "300"
+					},
+					"SidewaysCard": false,
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"ContainedObjects": [],
+					"GUID": "e4eb34"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-1.6170618534088135"
+						},
+						"posY": {
+							"$numberDouble": "0.9905503988265991"
+						},
+						"posZ": {
+							"$numberDouble": "-9.4702730178833"
+						},
+						"rotX": {
+							"$numberDouble": "-5.090083504910581E-06"
+						},
+						"rotY": {
+							"$numberDouble": "180.0"
+						},
+						"rotZ": {
+							"$numberDouble": "180.0"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "305"
+					},
+					"SidewaysCard": false,
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"ContainedObjects": [],
+					"GUID": "d0ae6f"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-0.337676465511322"
+						},
+						"posY": {
+							"$numberDouble": "1.0752267837524414"
+						},
+						"posZ": {
+							"$numberDouble": "-10.360733985900879"
+						},
+						"rotX": {
+							"$numberDouble": "4.036463360534981E-05"
+						},
+						"rotY": {
+							"$numberDouble": "179.99998474121094"
+						},
+						"rotZ": {
+							"$numberDouble": "-2.9583277864730917E-05"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"HideWhenFaceDown": true,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "303"
+					},
+					"SidewaysCard": false,
+					"CustomDeck": {
+						"3": {
+							"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725222/DBC7633E33988F17D21A8ED884800653BB23759F/",
+							"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+							"NumWidth": {
+								"$numberInt": "3"
+							},
+							"NumHeight": {
+								"$numberInt": "3"
+							},
+							"BackIsHidden": true,
+							"UniqueBack": false,
+							"Type": {
+								"$numberInt": "0"
+							}
+						}
+					},
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"GUID": "f22454"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-0.31030723452568054"
+						},
+						"posY": {
+							"$numberDouble": "1.084856629371643"
+						},
+						"posZ": {
+							"$numberDouble": "-10.568122863769531"
+						},
+						"rotX": {
+							"$numberDouble": "-2.852284160326235E-05"
+						},
+						"rotY": {
+							"$numberDouble": "179.99993896484375"
+						},
+						"rotZ": {
+							"$numberDouble": "2.8788819690817036E-05"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"HideWhenFaceDown": true,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "306"
+					},
+					"SidewaysCard": false,
+					"CustomDeck": {
+						"3": {
+							"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725222/DBC7633E33988F17D21A8ED884800653BB23759F/",
+							"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+							"NumWidth": {
+								"$numberInt": "3"
+							},
+							"NumHeight": {
+								"$numberInt": "3"
+							},
+							"BackIsHidden": true,
+							"UniqueBack": false,
+							"Type": {
+								"$numberInt": "0"
+							}
+						}
+					},
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"GUID": "c352f6"
+				}
+			],
+			"GUID": "566a1a"
+		},
+		{
+			"Name": "Deck",
+			"Transform": {
+				"posX": {
+					"$numberDouble": "-0.030138714239001274"
+				},
+				"posY": {
+					"$numberDouble": "1.0194329023361206"
+				},
+				"posZ": {
+					"$numberDouble": "10.218616485595703"
+				},
+				"rotX": {
+					"$numberDouble": "1.9085877283941954E-05"
+				},
+				"rotY": {
+					"$numberDouble": "0.008692005649209023"
+				},
+				"rotZ": {
+					"$numberDouble": "-3.945432399632409E-05"
+				},
+				"scaleX": {
+					"$numberDouble": "1.0"
+				},
+				"scaleY": {
+					"$numberDouble": "1.0"
+				},
+				"scaleZ": {
+					"$numberDouble": "1.0"
+				}
+			},
+			"Nickname": "",
+			"Description": "",
+			"GMNotes": "",
+			"ColorDiffuse": {
+				"r": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"g": {
+					"$numberDouble": "0.7132352590560913"
+				},
+				"b": {
+					"$numberDouble": "0.7132352590560913"
+				}
+			},
+			"Locked": false,
+			"Grid": true,
+			"Snap": true,
+			"IgnoreFoW": false,
+			"MeasureMovement": false,
+			"DragSelectable": true,
+			"Autoraise": true,
+			"Sticky": true,
+			"Tooltip": true,
+			"GridProjection": false,
+			"HideWhenFaceDown": true,
+			"Hands": false,
+			"SidewaysCard": false,
+			"DeckIDs": [
+				{
+					"$numberInt": "407"
+				},
+				{
+					"$numberInt": "405"
+				},
+				{
+					"$numberInt": "404"
+				},
+				{
+					"$numberInt": "406"
+				},
+				{
+					"$numberInt": "400"
+				},
+				{
+					"$numberInt": "402"
+				},
+				{
+					"$numberInt": "403"
+				},
+				{
+					"$numberInt": "401"
+				}
+			],
+			"CustomDeck": {
+				"4": {
+					"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458728151/6595F1E1122A31D808B0CC779C52DC82D02BFCDB/",
+					"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+					"NumWidth": {
+						"$numberInt": "3"
+					},
+					"NumHeight": {
+						"$numberInt": "3"
+					},
+					"BackIsHidden": true,
+					"UniqueBack": false,
+					"Type": {
+						"$numberInt": "0"
+					}
+				}
+			},
+			"LuaScript": "",
+			"LuaScriptState": "",
+			"XmlUI": "",
+			"ContainedObjects": [
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "2.2929675579071045"
+						},
+						"posY": {
+							"$numberDouble": "1.0229403972625732"
+						},
+						"posZ": {
+							"$numberDouble": "8.207199096679688"
+						},
+						"rotX": {
+							"$numberDouble": "0.3364781439304352"
+						},
+						"rotY": {
+							"$numberDouble": "13.692819595336914"
+						},
+						"rotZ": {
+							"$numberDouble": "357.9301452636719"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"HideWhenFaceDown": true,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "407"
+					},
+					"SidewaysCard": false,
+					"CustomDeck": {
+						"4": {
+							"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458728151/6595F1E1122A31D808B0CC779C52DC82D02BFCDB/",
+							"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+							"NumWidth": {
+								"$numberInt": "3"
+							},
+							"NumHeight": {
+								"$numberInt": "3"
+							},
+							"BackIsHidden": true,
+							"UniqueBack": false,
+							"Type": {
+								"$numberInt": "0"
+							}
+						}
+					},
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"GUID": "ce680d"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "3.288461685180664"
+						},
+						"posY": {
+							"$numberDouble": "1.0181987285614014"
+						},
+						"posZ": {
+							"$numberDouble": "8.473519325256348"
+						},
+						"rotX": {
+							"$numberDouble": "0.330583781003952"
+						},
+						"rotY": {
+							"$numberDouble": "13.512979507446289"
+						},
+						"rotZ": {
+							"$numberDouble": "358.1185302734375"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"HideWhenFaceDown": true,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "405"
+					},
+					"SidewaysCard": false,
+					"CustomDeck": {
+						"4": {
+							"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458728151/6595F1E1122A31D808B0CC779C52DC82D02BFCDB/",
+							"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+							"NumWidth": {
+								"$numberInt": "3"
+							},
+							"NumHeight": {
+								"$numberInt": "3"
+							},
+							"BackIsHidden": true,
+							"UniqueBack": false,
+							"Type": {
+								"$numberInt": "0"
+							}
+						}
+					},
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"GUID": "ed509c"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "4.286019325256348"
+						},
+						"posY": {
+							"$numberDouble": "1.013286828994751"
+						},
+						"posZ": {
+							"$numberDouble": "8.739858627319336"
+						},
+						"rotX": {
+							"$numberDouble": "359.84588623046875"
+						},
+						"rotY": {
+							"$numberDouble": "358.3351135253906"
+						},
+						"rotZ": {
+							"$numberDouble": "358.12872314453125"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"HideWhenFaceDown": true,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "404"
+					},
+					"SidewaysCard": false,
+					"CustomDeck": {
+						"4": {
+							"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458728151/6595F1E1122A31D808B0CC779C52DC82D02BFCDB/",
+							"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+							"NumWidth": {
+								"$numberInt": "3"
+							},
+							"NumHeight": {
+								"$numberInt": "3"
+							},
+							"BackIsHidden": true,
+							"UniqueBack": false,
+							"Type": {
+								"$numberInt": "0"
+							}
+						}
+					},
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"GUID": "b8fc15"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "1.2971892356872559"
+						},
+						"posY": {
+							"$numberDouble": "1.0318412780761719"
+						},
+						"posZ": {
+							"$numberDouble": "7.941748142242432"
+						},
+						"rotX": {
+							"$numberDouble": "0.8423036932945251"
+						},
+						"rotY": {
+							"$numberDouble": "28.906782150268555"
+						},
+						"rotZ": {
+							"$numberDouble": "358.1133728027344"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"HideWhenFaceDown": true,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "406"
+					},
+					"SidewaysCard": false,
+					"CustomDeck": {
+						"4": {
+							"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458728151/6595F1E1122A31D808B0CC779C52DC82D02BFCDB/",
+							"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+							"NumWidth": {
+								"$numberInt": "3"
+							},
+							"NumHeight": {
+								"$numberInt": "3"
+							},
+							"BackIsHidden": true,
+							"UniqueBack": false,
+							"Type": {
+								"$numberInt": "0"
+							}
+						}
+					},
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"GUID": "a1fb44"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "0.3049912452697754"
+						},
+						"posY": {
+							"$numberDouble": "1.025861382484436"
+						},
+						"posZ": {
+							"$numberDouble": "7.675357818603516"
+						},
+						"rotX": {
+							"$numberDouble": "0.028546296060085297"
+						},
+						"rotY": {
+							"$numberDouble": "164.35491943359375"
+						},
+						"rotZ": {
+							"$numberDouble": "2.7109944820404053"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"HideWhenFaceDown": true,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "400"
+					},
+					"SidewaysCard": false,
+					"CustomDeck": {
+						"4": {
+							"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458728151/6595F1E1122A31D808B0CC779C52DC82D02BFCDB/",
+							"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+							"NumWidth": {
+								"$numberInt": "3"
+							},
+							"NumHeight": {
+								"$numberInt": "3"
+							},
+							"BackIsHidden": true,
+							"UniqueBack": false,
+							"Type": {
+								"$numberInt": "0"
+							}
+						}
+					},
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"GUID": "d81e9b"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-0.6918234825134277"
+						},
+						"posY": {
+							"$numberDouble": "1.0253465175628662"
+						},
+						"posZ": {
+							"$numberDouble": "7.408241271972656"
+						},
+						"rotX": {
+							"$numberDouble": "0.0012243380770087242"
+						},
+						"rotY": {
+							"$numberDouble": "164.3663330078125"
+						},
+						"rotZ": {
+							"$numberDouble": "2.7277095317840576"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"HideWhenFaceDown": true,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "402"
+					},
+					"SidewaysCard": false,
+					"CustomDeck": {
+						"4": {
+							"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458728151/6595F1E1122A31D808B0CC779C52DC82D02BFCDB/",
+							"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+							"NumWidth": {
+								"$numberInt": "3"
+							},
+							"NumHeight": {
+								"$numberInt": "3"
+							},
+							"BackIsHidden": true,
+							"UniqueBack": false,
+							"Type": {
+								"$numberInt": "0"
+							}
+						}
+					},
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"GUID": "f1f157"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-1.6888227462768555"
+						},
+						"posY": {
+							"$numberDouble": "1.0247712135314941"
+						},
+						"posZ": {
+							"$numberDouble": "7.141676425933838"
+						},
+						"rotX": {
+							"$numberDouble": "0.009280012920498848"
+						},
+						"rotY": {
+							"$numberDouble": "164.45791625976562"
+						},
+						"rotZ": {
+							"$numberDouble": "2.6353535652160645"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"HideWhenFaceDown": true,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "403"
+					},
+					"SidewaysCard": false,
+					"CustomDeck": {
+						"4": {
+							"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458728151/6595F1E1122A31D808B0CC779C52DC82D02BFCDB/",
+							"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+							"NumWidth": {
+								"$numberInt": "3"
+							},
+							"NumHeight": {
+								"$numberInt": "3"
+							},
+							"BackIsHidden": true,
+							"UniqueBack": false,
+							"Type": {
+								"$numberInt": "0"
+							}
+						}
+					},
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"GUID": "29c98d"
+				},
+				{
+					"Name": "Card",
+					"Transform": {
+						"posX": {
+							"$numberDouble": "-2.68625807762146"
+						},
+						"posY": {
+							"$numberDouble": "1.0226200819015503"
+						},
+						"posZ": {
+							"$numberDouble": "6.875551700592041"
+						},
+						"rotX": {
+							"$numberDouble": "-0.004509872756898403"
+						},
+						"rotY": {
+							"$numberDouble": "164.82315063476562"
+						},
+						"rotZ": {
+							"$numberDouble": "2.5743632316589355"
+						},
+						"scaleX": {
+							"$numberDouble": "1.0"
+						},
+						"scaleY": {
+							"$numberDouble": "1.0"
+						},
+						"scaleZ": {
+							"$numberDouble": "1.0"
+						}
+					},
+					"Nickname": "",
+					"Description": "",
+					"GMNotes": "",
+					"ColorDiffuse": {
+						"r": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"g": {
+							"$numberDouble": "0.7132352590560913"
+						},
+						"b": {
+							"$numberDouble": "0.7132352590560913"
+						}
+					},
+					"Locked": false,
+					"Grid": true,
+					"Snap": true,
+					"IgnoreFoW": false,
+					"MeasureMovement": false,
+					"DragSelectable": true,
+					"Autoraise": true,
+					"Sticky": true,
+					"Tooltip": true,
+					"GridProjection": false,
+					"HideWhenFaceDown": true,
+					"Hands": true,
+					"CardID": {
+						"$numberInt": "401"
+					},
+					"SidewaysCard": false,
+					"CustomDeck": {
+						"4": {
+							"FaceURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458728151/6595F1E1122A31D808B0CC779C52DC82D02BFCDB/",
+							"BackURL": "http://cloud-3.steamusercontent.com/ugc/1011567362458725976/394EC0B174A3D9F593995D09FCD1A262E1BB4540/",
+							"NumWidth": {
+								"$numberInt": "3"
+							},
+							"NumHeight": {
+								"$numberInt": "3"
+							},
+							"BackIsHidden": true,
+							"UniqueBack": false,
+							"Type": {
+								"$numberInt": "0"
+							}
+						}
+					},
+					"LuaScript": "",
+					"LuaScriptState": "",
+					"XmlUI": "",
+					"GUID": "c0c2d2"
+				}
+			],
+			"GUID": "b44cf3"
+		}
+	],
+	"LuaScript": "--[[ Lua code. See documentation: https://api.tabletopsimulator.com/ --]]\n\n--[[ The onLoad event is called after the game save finishes loading. --]]\nfunction onLoad()\n    --[[ print('onLoad!') --]]\nend\n\n--[[ The onUpdate event is called once per frame. --]]\nfunction onUpdate()\n    --[[ print('onUpdate loop!') --]]\nend",
+	"LuaScriptState": "",
+	"XmlUI": "<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->",
+	"SnapPoints": [
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "0.05582138150930405"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-0.03710794448852539"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "0.010652542114257812"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "-0.011479225009679794"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-17.695755004882812"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "14.351898193359375"
+				}
+			}
+		},
+		{
+			"Position": {
+				"x": {
+					"$numberDouble": "-32.143310546875"
+				},
+				"y": {
+					"$numberDouble": "0.9611349105834961"
+				},
+				"z": {
+					"$numberDouble": "30.618358612060547"
+				}
+			}
+		}
+	],
+	"VersionNumber": "v12.4.3"
+}

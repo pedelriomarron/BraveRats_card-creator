@@ -7,7 +7,7 @@
   "paper_landscape": true,
   "scale_override": 1.0,
   "card_spacing": 5,
-  "face_type": "both",
+  "face_type": "-1",
   "image_filename_format": "%n - %i (%s)",
   "pdf_intercalate_pages": true,
   "tts_grid": "10, 7",

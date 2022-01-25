@@ -435,7 +435,7 @@
           "anchor_max_render": "1, 0.9084424",
           "type": "none",
           "data": {},
-          "sort_mode": "14",
+          "sort_mode": "13",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -475,7 +475,7 @@
           "anchor_max_render": "0.333573, 0.940547",
           "type": "none",
           "data": {},
-          "sort_mode": "15",
+          "sort_mode": "14",
           "split_mode": "vertical",
           "parent_panel_id": "bc51314c-52b2-4fab-b556-ff4299560dac"
         },
@@ -757,7 +757,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "13",
+          "sort_mode": "15",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

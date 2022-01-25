@@ -3,7 +3,7 @@
   "blueprint_id": "be559031-27c3-42c1-adaf-abffee5f3076",
   "name": "Carta Base",
   "layout_size": "63.5, 88.9",
-  "layout_grid_size": "0.1993846, 1",
+  "layout_grid_size": "0.1993846, 0.1993846",
   "layout_grid_offset": "-0.02740403, -0.2380343",
   "layout_grid_square": false,
   "layout_grid_centered": true,
@@ -249,7 +249,7 @@
           "anchor_max_render": "1, 0.6516286",
           "type": "none",
           "data": {},
-          "sort_mode": "9",
+          "sort_mode": "7",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -276,7 +276,7 @@
             "offset": "0.003437642, 0.03142579",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "10",
+          "sort_mode": "8",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -299,9 +299,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 3.628725E-08",
+          "anchor_min_render": "0, -1.814363E-08",
           "anchor_max": "1, 0.1955905",
-          "anchor_max_render": "1, 0.1955906",
+          "anchor_max_render": "1, 0.1955905",
           "type": "none",
           "data": {},
           "sort_mode": "15",
@@ -319,12 +319,12 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "-1.016043E-07, 3.628725E-08",
+          "anchor_min_render": "-1.016043E-07, -1.814363E-08",
           "anchor_max": "0.08124785, 1",
-          "anchor_max_render": "0.08124768, 0.1955906",
+          "anchor_max_render": "0.08124768, 0.1955905",
           "type": "none",
           "data": {},
-          "sort_mode": "11",
+          "sort_mode": "9",
           "split_mode": "vertical",
           "parent_panel_id": "713403c3-450b-44ad-9e4f-9c93a860fdc1"
         },
@@ -339,9 +339,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.08124785, 0",
-          "anchor_min_render": "0.08124778, 3.628725E-08",
+          "anchor_min_render": "0.08124778, -1.814363E-08",
           "anchor_max": "0.9028953, 1",
-          "anchor_max_render": "0.9028952, 0.1955906",
+          "anchor_max_render": "0.9028952, 0.1955905",
           "type": "none",
           "data": {},
           "sort_mode": "18",
@@ -364,7 +364,7 @@
           "anchor_max_render": "0.9028952, 0.05317289",
           "type": "none",
           "data": {},
-          "sort_mode": "12",
+          "sort_mode": "10",
           "split_mode": "horizontal",
           "parent_panel_id": "120358de-415d-4203-8d9a-3934aab2c1a8"
         },
@@ -379,9 +379,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.2718583",
-          "anchor_min_render": "0.08124778, 0.05317292",
+          "anchor_min_render": "0.08124778, 0.05317287",
           "anchor_max": "1, 1",
-          "anchor_max_render": "0.9028952, 0.1955906",
+          "anchor_max_render": "0.9028952, 0.1955905",
           "type": "text",
           "data": {
             "font_family": "Roboto Slab",
@@ -395,7 +395,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "13",
+          "sort_mode": "12",
           "split_mode": "horizontal",
           "parent_panel_id": "120358de-415d-4203-8d9a-3934aab2c1a8"
         },
@@ -410,12 +410,12 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.9028953, 0",
-          "anchor_min_render": "0.902895, 3.628725E-08",
+          "anchor_min_render": "0.902895, -1.814363E-08",
           "anchor_max": "1, 1",
-          "anchor_max_render": "0.9999996, 0.1955906",
+          "anchor_max_render": "0.9999996, 0.1955905",
           "type": "none",
           "data": {},
-          "sort_mode": "14",
+          "sort_mode": "13",
           "split_mode": "vertical",
           "parent_panel_id": "713403c3-450b-44ad-9e4f-9c93a860fdc1"
         },
@@ -430,12 +430,12 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.1955905",
-          "anchor_min_render": "0, 0.1955906",
+          "anchor_min_render": "0, 0.1955905",
           "anchor_max": "1, 0.9084423",
-          "anchor_max_render": "1, 0.9084423",
+          "anchor_max_render": "1, 0.9084424",
           "type": "none",
           "data": {},
-          "sort_mode": "15",
+          "sort_mode": "14",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -472,10 +472,10 @@
           "anchor_min": "0, 0",
           "anchor_min_render": "0, 0.9084423",
           "anchor_max": "0.3335731, 1",
-          "anchor_max_render": "0.3335729, 0.940547",
+          "anchor_max_render": "0.333573, 0.940547",
           "type": "none",
           "data": {},
-          "sort_mode": "16",
+          "sort_mode": "15",
           "split_mode": "vertical",
           "parent_panel_id": "bc51314c-52b2-4fab-b556-ff4299560dac"
         },
@@ -490,9 +490,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.3335731, 0",
-          "anchor_min_render": "0.333573, 0.9084423",
+          "anchor_min_render": "0.3335731, 0.9084423",
           "anchor_max": "0.7447503, 1",
-          "anchor_max_render": "0.7447501, 0.940547",
+          "anchor_max_render": "0.7447503, 0.940547",
           "type": "text",
           "data": {
             "font_family": "Merilee Bold Italic",
@@ -506,7 +506,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "17",
+          "sort_mode": "16",
           "split_mode": "vertical",
           "parent_panel_id": "bc51314c-52b2-4fab-b556-ff4299560dac"
         },
@@ -521,12 +521,12 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.7447503, 0",
-          "anchor_min_render": "0.7447502, 0.9084423",
+          "anchor_min_render": "0.7447504, 0.9084423",
           "anchor_max": "1, 1",
-          "anchor_max_render": "0.9999998, 0.940547",
+          "anchor_max_render": "1, 0.940547",
           "type": "none",
           "data": {},
-          "sort_mode": "19",
+          "sort_mode": "17",
           "split_mode": "vertical",
           "parent_panel_id": "bc51314c-52b2-4fab-b556-ff4299560dac"
         },
@@ -574,7 +574,7 @@
           "anchor_max_render": "1, 0.7942925",
           "type": "none",
           "data": {},
-          "sort_mode": "20",
+          "sort_mode": "19",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -614,7 +614,7 @@
           "anchor_max_render": "0.03725901, 0.9762188",
           "type": "none",
           "data": {},
-          "sort_mode": "21",
+          "sort_mode": "20",
           "split_mode": "vertical",
           "parent_panel_id": "30e63f97-bcf3-479c-9480-cd1918567658"
         },
@@ -645,7 +645,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "22",
+          "sort_mode": "21",
           "split_mode": "vertical",
           "parent_panel_id": "30e63f97-bcf3-479c-9480-cd1918567658"
         },
@@ -665,7 +665,7 @@
           "anchor_max_render": "1, 0.9762188",
           "type": "none",
           "data": {},
-          "sort_mode": "23",
+          "sort_mode": "22",
           "split_mode": "vertical",
           "parent_panel_id": "30e63f97-bcf3-479c-9480-cd1918567658"
         },
@@ -685,7 +685,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "24",
+          "sort_mode": "23",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -722,7 +722,7 @@
             "offset": "0, 0",
             "tint": "#000000FF"
           },
-          "sort_mode": "25",
+          "sort_mode": "24",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -757,7 +757,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "8",
+          "sort_mode": "11",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

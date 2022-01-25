@@ -14,9 +14,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/E10DAA49F57D1E3AA9E227720C844B5D581AFE19_1 (8)_cleanup.png",
+                "uri": "%PROJECT%/0r.png",
                 "zoom": 1.0,
                 "offset": "0.002678054, -0.1348203"
               }
@@ -28,6 +29,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Esta ronda se cancela y se deja en espera</b>"
@@ -35,6 +37,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Músico</b>"
@@ -47,6 +50,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>0</b>"
@@ -65,9 +69,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_44_cleanup (1).png",
+                "uri": "%PROJECT%/1r.png",
                 "offset": "-0.002026607, -0.1517428"
               }
             }
@@ -78,6 +83,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Si tu oponente ha jugado al Príncipe, ganas la partida</b>"
@@ -85,6 +91,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>La Princesa</b>"
@@ -97,6 +104,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>1</b>"
@@ -115,9 +123,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_45_cleanup (1).png",
+                "uri": "%PROJECT%/2r.png",
                 "offset": "0.002678054, -0.1672551"
               }
             }
@@ -134,10 +143,11 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/EFC2358B0B52F8BC1BD09E57C44256A54D6BB7EB_1 (9)_cleanup.png",
-                "offset": "-0.003594827, -0.1178977"
+                "uri": "%PROJECT%/3r.png",
+                "offset": "0.001155486, -0.1378321"
               }
             }
           ]
@@ -147,6 +157,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>La carta de menor valor gana</b>"
@@ -154,6 +165,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Asesino</b>"
@@ -166,6 +178,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>3</b>"
@@ -184,9 +197,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_41_cleanup (1) (1).png",
+                "uri": "%PROJECT%/4r.png",
                 "zoom": 1.0,
                 "offset": "0.001109833, -0.1362305"
               }
@@ -198,6 +212,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Ganar con esta carta cuenta como 2 victorias</b>"
@@ -205,6 +220,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Embajador</b>"
@@ -217,6 +233,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>4</b>"
@@ -235,9 +252,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_42_cleanup (1) (1).png",
+                "uri": "%PROJECT%/5r.png",
                 "offset": "-0.0004583866, -0.1686653"
               }
             }
@@ -248,6 +266,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Anula la habilidad especial de la carta de tu oponente</b>"
@@ -255,6 +274,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Mago</b>"
@@ -267,6 +287,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>5</b>"
@@ -285,9 +306,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_43_cleanup (1) (1).png",
+                "uri": "%PROJECT%/6r.png",
                 "zoom": 1.0,
                 "offset": "-0.0004583866, -0.1390509"
               }
@@ -299,6 +321,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El valor de tu carta en la siguiente ronda estará aumentado en +2</b>"
@@ -306,6 +329,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El General</b>"
@@ -318,6 +342,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>6</b>"
@@ -336,10 +361,11 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/58E1CF024954B57749D2FB017C7670A8714EC552_1 (1)_cleanup.png",
-                "offset": "0.005814494, -0.1771265"
+                "uri": "%PROJECT%/7r.png",
+                "offset": "0.002647682, -0.1500727"
               }
             }
           ]
@@ -349,6 +375,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Gana la ronda excepto contra el Músico y la Princesa</b>"
@@ -356,6 +383,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Príncipe</b>"
@@ -368,6 +396,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>7</b>"
@@ -386,9 +415,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/FB52F4ED23D911C0A62E625FA44E0C6386588963_1 (6)_cleanup.png",
+                "uri": "%PROJECT%/ir.png",
                 "offset": "0.005814494, -0.1178977"
               }
             }
@@ -399,6 +429,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Copia la carta de la ronda anterior de tu oponente</b>"
@@ -406,6 +437,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Mimo</b>"
@@ -418,6 +450,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>?</b>"
@@ -436,9 +469,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_53_cleanup (1).png",
+                "uri": "%PROJECT%/0a.png",
                 "offset": "-0.0004583866, -0.1334101"
               }
             }
@@ -449,6 +483,7 @@
           "panels": [
             {
               "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/blue_cleanup - copia.png"
@@ -461,6 +496,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Esta ronda se cancela y se deja en espera</b>"
@@ -468,6 +504,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Músico</b>"
@@ -480,6 +517,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>0</b>"
@@ -498,9 +536,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_52_cleanup (1).png",
+                "uri": "%PROJECT%/1a.png",
                 "offset": "0.004246274, -0.1517428"
               }
             }
@@ -511,6 +550,7 @@
           "panels": [
             {
               "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/blue_cleanup - copia.png"
@@ -523,6 +563,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Si tu oponente ha jugado al Príncipe, ganas la partida</b>"
@@ -530,6 +571,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>La Princesa</b>"
@@ -542,6 +584,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>1</b>"
@@ -560,9 +603,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_49_cleanup (1).png",
+                "uri": "%PROJECT%/2a.png",
                 "offset": "0.002678149, -0.1362305"
               }
             }
@@ -573,6 +617,7 @@
           "panels": [
             {
               "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/blue_cleanup - copia.png"
@@ -591,9 +636,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_48_cleanup (1).png",
+                "uri": "%PROJECT%/3a.png",
                 "offset": "0.001109833, -0.1461019"
               }
             }
@@ -604,6 +650,7 @@
           "panels": [
             {
               "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/blue_cleanup - copia.png"
@@ -616,6 +663,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>La carta de menor valor gana</b>"
@@ -623,6 +671,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Asesino</b>"
@@ -635,6 +684,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>3</b>"
@@ -653,9 +703,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "D:/Users/pedel/Desktop/Juegos de Mesa/Brave Rats/fotos/4/Screenshot_47_cleanup (1).png",
+                "uri": "%PROJECT%/4a.png",
                 "offset": "0.001109833, -0.1616142"
               }
             }
@@ -666,6 +717,7 @@
           "panels": [
             {
               "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/blue_cleanup - copia.png"
@@ -678,6 +730,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Ganar con esta carta cuenta como 2 victorias</b>"
@@ -685,6 +738,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Embajador</b>"
@@ -697,6 +751,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>4</b>"
@@ -715,9 +770,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_51_cleanup (1).png",
+                "uri": "%PROJECT%/5a.png",
                 "offset": "0.002678054, -0.1418713"
               }
             }
@@ -728,6 +784,7 @@
           "panels": [
             {
               "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/blue_cleanup - copia.png"
@@ -740,6 +797,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Anula la habilidad especial de la carta de tu oponente</b>"
@@ -747,6 +805,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Mago</b>"
@@ -759,6 +818,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>5</b>"
@@ -777,10 +837,12 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/4A7B4606B507EB93896E2BFE729A67DFF257266D_2 (1)_cleanup.png",
-                "offset": "-0.003594827, -0.1178977"
+                "uri": "%PROJECT%/6a.png",
+                "zoom": 1.0,
+                "offset": "-0.002011372, -0.1477994"
               }
             }
           ]
@@ -790,6 +852,7 @@
           "panels": [
             {
               "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/blue_cleanup - copia.png"
@@ -802,6 +865,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El valor de tu carta en la siguiente ronda estará aumentado en +2</b>"
@@ -809,6 +873,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El General</b>"
@@ -821,6 +886,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>6</b>"
@@ -839,9 +905,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/Screenshot_50_cleanup (1).png",
+                "uri": "%PROJECT%/7a.png",
                 "offset": "0.002678054, -0.1545632"
               }
             }
@@ -852,6 +919,7 @@
           "panels": [
             {
               "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/blue_cleanup - copia.png"
@@ -864,6 +932,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Gana la ronda excepto contra el Músico y la Princesa</b>"
@@ -871,6 +940,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Príncipe</b>"
@@ -883,6 +953,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>7</b>"
@@ -901,9 +972,10 @@
           "panels": [
             {
               "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "D:/Users/pedel/Desktop/Juegos de Mesa/Brave Rats/fotos/int/21DAC149B4E0932A4A85DD5D3E33AD4BF71A5D51_2 (6)_cleanup.png",
+                "uri": "%PROJECT%/ia.png",
                 "offset": "-0.0004583866, -0.1136671"
               }
             }
@@ -914,6 +986,7 @@
           "panels": [
             {
               "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/blue_cleanup - copia.png"
@@ -926,6 +999,7 @@
           "panels": [
             {
               "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Copia la carta de la ronda anterior de tu oponente</b>"
@@ -933,6 +1007,7 @@
             },
             {
               "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>El Mimo</b>"
@@ -945,6 +1020,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>?</b>"

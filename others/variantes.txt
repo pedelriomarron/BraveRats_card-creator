@@ -1,0 +1,83 @@
+Variaciones del juego
+
+Algunas de las variaciones se pueden utilizar en combinación con otras.
+
+Traidor: antes del juego, ambos jugadores intercambian una carta al azar.
+
+Lucky Draw: Las 8 cartas iniciales se barajan para formar una pila de sorteo. Cada jugador saca 3 cartas y elige una para jugar.
+
+Tan pronto como se juega una carta, se extrae una nueva carta.
+
+Fast Rat: El juego se gana después de 3 victorias en lugar de 4.
+
+Draft: baraja las 16 cartas. Un jugador saca 4, elige uno para quedarse y le da el resto al otro jugador que elige uno para quedarse y le devuelve el resto y así sucesivamente. Luego, el otro jugador roba 4 cartas nuevas, elige una para quedarse y así sucesivamente hasta que se reparten todas las cartas.
+
+Reparto aleatorio: baraja las 16 cartas y reparte 8 a cada jugador.
+
+Ataque de Princesa: Antes del juego, un jugador cambia su Princesa por el Príncipe del oponente. Esto significa que un jugador comienza con ambos Príncipes y el otro con ambas Princesas.
+
+El Emperador: Juega 3 veces. El primero en ganar 2 juegos gana.
+
+
+
+Príncipe
+
+tu ganas la ronda
+
+
+Esta carta siempre gana la ronda excepto contra la Princesa y el Músico.
+
+No importa si el Asesino ha cambiado las tornas, el Príncipe vence al Asesino. Sin embargo, el Músico todavía pone la ronda en espera.
+
+Advertencia: si el oponente juega a la Princesa contra tu Príncipe, no solo gana la ronda, ¡gana el juego!
+
+General
+
+La carta en tu próxima ronda obtiene +2 fuerza
+
+
+El poder del General afecta a la siguiente ronda. Si el oponente juega al Mago en la siguiente ronda, no anula el poder del General.
+
+Mago
+
+Anula el poder especial de la carta de tu oponente
+
+
+El Mago anula el poder especial del oponente, lo que simplemente significa que la carta más alta gana la ronda.
+
+Embajador
+
+Si ganas con esta carta, cuenta como 2 victorias
+
+
+Este efecto es válido incluso si la ronda está en espera.
+
+Si el jugador que jugó el Embajador gana la ronda después de un agarre, vale 3 victorias.
+
+Asesino
+
+La fuerza más baja gana
+
+
+La fuerza más baja gana, excepto contra un Príncipe.
+
+Espiar
+
+En la siguiente ronda, tu oponente revela su carta antes de que elijas la tuya.
+
+
+Si ambos jugadores eligen el Spy en la misma ronda, sus poderes se anulan mutuamente.
+
+princesa
+
+Si tu oponente juega el Príncipe, automáticamente ganas el juego.
+
+
+Si tu oponente juega con el Príncipe, el juego termina inmediatamente y tú ganas, independientemente del número de victorias.
+
+Músico
+
+Esta ronda se anula y se pone en espera
+
+
+Este poder vence a todos los poderes, excepto al del Mago.

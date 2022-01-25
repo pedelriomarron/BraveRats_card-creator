@@ -1,0 +1,1034 @@
+{
+  "version": 2.12,
+  "cardset_id": "19e90140-f346-4fe5-acb5-85a0961fe3d4",
+  "name": "Carta Base 2º versión",
+  "blueprint_id": "be559031-27c3-42c1-adaf-abffee5f3076",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "440b455f-759a-46a1-a5a9-bbaa2fffbb5e",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/0r-r.png",
+                "zoom": 1.0,
+                "offset": "0.002678054, -0.1348203"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Esta ronda se cancela y se deja en espera</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Músico</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>0</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "7cb957bd-fef6-4fe3-a971-a6b349a30dea",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/1r-r.png",
+                "offset": "-0.002026607, -0.1517428"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Si tu oponente ha jugado al Príncipe, ganas la partida</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>La Princesa</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>1</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a9ecb84c-2d9b-483f-9be9-95d3ad3e8265",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/2r-r.png",
+                "offset": "0.002678054, -0.1672551"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "3a168523-f1c2-4225-b370-14d5c7ba0e4c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/3r-r.png",
+                "offset": "0.001155486, -0.1378321"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>La carta de menor valor gana</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Asesino</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>3</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "db49659c-dd58-4e18-88f5-0c0fb9fdd2ad",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/4r-r.png",
+                "zoom": 1.0,
+                "offset": "0.001109833, -0.1362305"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Ganar con esta carta cuenta como 2 victorias</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Embajador</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>4</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5481887f-b003-40af-85d1-fa3b5846ecff",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/5r-r.png",
+                "offset": "-0.0004583866, -0.1686653"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Anula la habilidad especial de la carta de tu oponente</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Mago</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>5</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "20655891-0a66-4919-9505-2e3988784d4f",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/6r-r.png",
+                "zoom": 1.0,
+                "offset": "-0.0004583866, -0.1390509"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El valor de tu carta en la siguiente ronda estará aumentado en +2</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El General</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>6</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b7a9470b-6a36-44e2-8970-a6f188c10d7f",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/7r-r.png",
+                "offset": "0.002647682, -0.1500727"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gana la ronda excepto contra el Músico y la Princesa</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Príncipe</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>7</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "dffbd78d-9797-4a04-a5d9-691eff93d78c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/ir.png",
+                "offset": "0.005814494, -0.1178977"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Copia la carta de la ronda anterior de tu oponente</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Mimo</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>?</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a57bd189-bbd7-4605-b003-9ae6972b3453",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/0a-r.png",
+                "offset": "-0.0004583866, -0.1334101"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fe9dc37a-1918-4565-b66f-013e20f0f427",
+          "panels": [
+            {
+              "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/blue_cleanup - copia.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Esta ronda se cancela y se deja en espera</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Músico</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>0</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "64c54b20-a889-4474-a4f6-ba77a646dc50",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/1a-r.png",
+                "offset": "0.004246274, -0.1517428"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fe9dc37a-1918-4565-b66f-013e20f0f427",
+          "panels": [
+            {
+              "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/blue_cleanup - copia.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Si tu oponente ha jugado al Príncipe, ganas la partida</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>La Princesa</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>1</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "14a71338-8c3d-443c-a1cf-065335e5d211",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/2a-r.png",
+                "offset": "0.002678149, -0.1362305"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fe9dc37a-1918-4565-b66f-013e20f0f427",
+          "panels": [
+            {
+              "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/blue_cleanup - copia.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f4603c09-b08f-4e3b-83bd-db6b42cb9153",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/3a-r.png",
+                "offset": "0.001109833, -0.1461019"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fe9dc37a-1918-4565-b66f-013e20f0f427",
+          "panels": [
+            {
+              "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/blue_cleanup - copia.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>La carta de menor valor gana</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Asesino</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>3</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "22ee8a5d-5755-40b6-bb0b-b92376314baf",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/4a-r.png",
+                "offset": "0.001109833, -0.1616142"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fe9dc37a-1918-4565-b66f-013e20f0f427",
+          "panels": [
+            {
+              "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/blue_cleanup - copia.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Ganar con esta carta cuenta como 2 victorias</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Embajador</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>4</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1d8dd54f-b8e8-4fac-8d7e-180c6d4b864f",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/5a-r.png",
+                "offset": "0.002678054, -0.1418713"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fe9dc37a-1918-4565-b66f-013e20f0f427",
+          "panels": [
+            {
+              "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/blue_cleanup - copia.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Anula la habilidad especial de la carta de tu oponente</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Mago</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>5</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a2ac45de-a931-48c6-a3e4-425ce5cfd16a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/6a-r.png",
+                "zoom": 1.0,
+                "offset": "-0.002011372, -0.1477994"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fe9dc37a-1918-4565-b66f-013e20f0f427",
+          "panels": [
+            {
+              "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/blue_cleanup - copia.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El valor de tu carta en la siguiente ronda estará aumentado en +2</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El General</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>6</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4455de7b-44da-4377-9339-f516b01e6922",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/7a-r.png",
+                "offset": "0.002678054, -0.1771266"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fe9dc37a-1918-4565-b66f-013e20f0f427",
+          "panels": [
+            {
+              "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/blue_cleanup - copia.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gana la ronda excepto contra el Músico y la Princesa</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Príncipe</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>7</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c91ed774-6354-4bf6-bb50-9c08a391a08d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2668c80b-4072-4657-9298-aaf4518e00bb",
+          "panels": [
+            {
+              "blueprint_panel_id": "b19bac28-e613-41f4-bc3c-23b71c18f6dc",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/ia.png",
+                "offset": "-0.0004583866, -0.1136671"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fe9dc37a-1918-4565-b66f-013e20f0f427",
+          "panels": [
+            {
+              "blueprint_panel_id": "403d8e7b-1858-4115-acbe-da05d379a81d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/blue_cleanup - copia.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "8f51df8f-96fa-4844-b377-db66a4298c03",
+          "panels": [
+            {
+              "blueprint_panel_id": "3b1feee2-5ba9-4f92-a185-5703e75f2026",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Copia la carta de la ronda anterior de tu oponente</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5e961ff3-f793-44d5-92c5-00963615a598",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>El Mimo</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "54270208-d5e6-4e43-b608-22a7db39ef55",
+          "panels": [
+            {
+              "blueprint_panel_id": "f45ded43-d9f1-4c09-a3b7-768772aa838a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>?</b>"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
